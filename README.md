@@ -302,6 +302,6 @@ To cite this work, use [`CITATION.cff`](CITATION.cff) and also cite the
 
 Authors: **Ben Luckraft** and **Saran Shantikumar**, University of Warwick.
 
-The R code was audited using [Claude Code](https://claude.com/claude-code) (Anthropic) and [Codex](https://openai.com/codex/) (OpenAI). Codex was also used to expand the code comments in plain English and to restructure and edit this README.
+The R code was reviewed, cross-checked and reorganised into a clear sequence of scripts with assistance from [Claude Code](https://claude.com/claude-code) (Anthropic) and [Codex](https://openai.com/codex/) (OpenAI). Codex was also used to expand the code comments in plain English and to draft and structure this README.
 
-**Saran Shantikumar is the guarantor for this repository and reviewed and approved the final code, data outputs and documentation before release.**
+Saran Shantikumar is the guarantor for this repository and reviewed and approved the final code, data outputs and documentation before release.
