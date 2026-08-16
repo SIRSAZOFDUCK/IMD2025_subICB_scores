@@ -300,7 +300,10 @@ The derived data remain under OGL v3 and cannot be relicensed. See
 To cite this work, use [`CITATION.cff`](CITATION.cff) and also cite the
 [underlying MHCLG publication](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025).
 
-Authors: **Ben Luckraft** and **Saran Shantikumar**, University of Warwick.
+## Authors
+
+**Ben Luckraft** and **Saran Shantikumar**, University of Warwick.
+August 2026
 
 The R code was reviewed, cross-checked and reorganised into a clear sequence of scripts with assistance from [Claude Code](https://claude.com/claude-code) (Anthropic) and [Codex](https://openai.com/codex/) (OpenAI). Codex was also used to expand the code comments in plain English and to draft and structure this README.
 
