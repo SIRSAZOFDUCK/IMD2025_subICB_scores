@@ -1,0 +1,5 @@
+"icb_vintage","n_icb_matched","n_comparisons","max_abs_diff","n_same_when_rounded","pct_same_when_rounded","n_beyond_half_rounding_unit","n_beyond_one_rounding_unit","pass"
+2023,42,420,0.000501342746148742,419,99.76,1,0,TRUE
+2024,42,420,0.000501342746148742,419,99.76,1,0,TRUE
+2025,42,420,0.000501342746148742,419,99.76,1,0,TRUE
+2026,29,290,0.000498953282136227,290,100,0,0,TRUE

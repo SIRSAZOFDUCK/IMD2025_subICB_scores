@@ -1,0 +1,17 @@
+"index","label","scale","weight_denominator","lsoa_min","lsoa_max","mhclg_comparison_available"
+"imd","Index of Multiple Deprivation","imd_composite","Total population: mid 2022",0.165,94.223,TRUE
+"income","Income","rate_0_1","Total population: mid 2022",0.002,0.998,TRUE
+"employment","Employment","rate_0_1","Working age population 18-66 (for use with Employment Deprivation Domain): mid 2022",0.002,0.978,TRUE
+"education","Education, Skills and Training","exponential_0_100","Total population: mid 2022",0.004,99.613,TRUE
+"health","Health Deprivation and Disability","standardised","Total population: mid 2022",-3.1,3.309,TRUE
+"crime","Crime","standardised","Total population: mid 2022",-3.293,3.545,TRUE
+"barriers","Barriers to Housing and Services","exponential_0_100","Total population: mid 2022",1.49,63.502,TRUE
+"living_env","Living Environment","exponential_0_100","Total population: mid 2022",0.055,85.733,TRUE
+"idaci","IDACI (supplementary)","rate_0_1","Dependent Children aged 0-15: mid 2022",0.003,1,TRUE
+"idaopi","IDAOPI (supplementary)","rate_0_1","Older population aged 60 and over: mid 2022",0.003,0.998,TRUE
+"sub_children_yp","Children and Young People sub-domain","untransformed_subdomain","Total population: mid 2022",-3.048,3.347,FALSE
+"sub_adult_skills","Adult Skills sub-domain","untransformed_subdomain","Total population: mid 2022",0.022,0.741,FALSE
+"sub_geo_barriers","Geographical Barriers sub-domain","untransformed_subdomain","Total population: mid 2022",1.144,96.828,FALSE
+"sub_wider_barriers","Wider Barriers sub-domain","untransformed_subdomain","Total population: mid 2022",-11.2,10.106,FALSE
+"sub_indoors","Indoors sub-domain","untransformed_subdomain","Total population: mid 2022",-2.024,2.304,FALSE
+"sub_outdoors","Outdoors sub-domain","untransformed_subdomain","Total population: mid 2022",-2.569,2.783,FALSE

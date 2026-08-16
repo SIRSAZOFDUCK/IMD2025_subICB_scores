@@ -1,0 +1,22 @@
+# Downloaded source data. The record in SOURCE_FILES.md allows these
+# files to be checked after downloading them again.
+data-raw/
+
+# Locally rendered copies of the documentation
+README.html
+README_files/
+data/README.html
+data/README_files/
+
+# Dated local copies made before updating the repository
+archive_*/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
+Thumbs.db

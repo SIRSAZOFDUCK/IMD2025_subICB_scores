@@ -1,0 +1,68 @@
+# GitHub renders this as a "Cite this repository" button.
+#
+cff-version: 1.2.0
+title: >-
+  IMD 2025 population-weighted average scores at Sub-ICB Location level
+message: >-
+  If you use these outputs, please cite this repository AND the underlying
+  MHCLG Indices of Deprivation 2025 (see the references below). The dataset
+  is Crown copyright, licensed under the Open Government Licence v3.0 with
+  attribution required (see DATA_LICENCE.md); the R code that produces it is
+  MIT-licensed (see LICENSE).
+type: dataset
+authors:
+  - given-names: Ben
+    family-names: Luckraft
+    affiliation: University of Warwick
+  - given-names: Saran
+    family-names: Shantikumar
+    affiliation: University of Warwick
+    orcid: 'https://orcid.org/0000-0002-8565-5385'
+repository-code: 'https://github.com/SIRSAZOFDUCK/IMD2025_subICB_scores'
+url: 'https://github.com/SIRSAZOFDUCK/IMD2025_subICB_scores'
+# This citation covers the dataset, which is OGL v3. The R code alone is
+# covered by MIT; see LICENSE and DATA_LICENCE.md.
+license: OGL-UK-3.0
+license-url: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+version: 1.0.0
+date-released: '2026-08-04'
+keywords:
+  - deprivation
+  - IMD
+  - Indices of Deprivation 2025
+  - Sub-ICB Location
+  - SICBL
+  - Integrated Care Board
+  - England
+  - health inequalities
+abstract: >-
+  Population-weighted average Index of Multiple Deprivation 2025 scores for
+  England's 106 Sub-ICB Locations, covering the overall IMD, all seven domains,
+  both supplementary indices and all six sub-domains, across four Sub-ICB
+  boundary years (2023-2026). Scores only; no ranks or deciles. Uses MHCLG's
+  "Average score" higher-area summary measure with the index-specific
+  population weighting set out in the Indices of Deprivation 2025 Technical
+  Report (para 3.8.8). MHCLG publish higher-area summaries for local
+  authorities, ICBs and other geographies but not for Sub-ICB Locations, which
+  is the gap this fills. The method was checked by repeating the same
+  calculation for Integrated Care Boards and both local authority tiers and
+  reproducing MHCLG's published summaries across 6,040 comparisons.
+references:
+  - type: report
+    title: English Indices of Deprivation 2025
+    authors:
+      - name: >-
+          Ministry of Housing, Communities and Local Government
+    year: 2025
+    url: 'https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025'
+    notes: >-
+      Contains public sector information licensed under the Open Government
+      Licence v3.0. Crown copyright.
+  - type: data
+    title: Open Geography Portal geography lookups
+    authors:
+      - name: Office for National Statistics
+    url: 'https://geoportal.statistics.gov.uk/'
+    notes: >-
+      Source: Office for National Statistics licensed under the Open Government
+      Licence v.3.0.

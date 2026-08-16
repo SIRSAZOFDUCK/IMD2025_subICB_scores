@@ -1,0 +1,43 @@
+MIT License
+
+Copyright (c) 2026 IMD2025_subicb contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+NOTE ON DATA
+
+The MIT licence above covers the CODE in this repository (the R scripts) only.
+
+The source data, and the derived outputs in data/, are Crown copyright and are
+made available under the Open Government Licence v3.0, NOT the MIT licence:
+https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+
+Required attributions when reusing the data or outputs:
+
+  Indices of Deprivation 2025:
+    Contains public sector information licensed under the Open Government
+    Licence v3.0. Source: Ministry of Housing, Communities and Local
+    Government, English Indices of Deprivation 2025. (c) Crown copyright.
+
+  Geography lookups:
+    Source: Office for National Statistics licensed under the Open Government
+    Licence v.3.0.
+
+See DATA_LICENCE.md for detail.

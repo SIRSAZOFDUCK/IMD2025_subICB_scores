@@ -1,0 +1,2121 @@
+"sicbl_vintage","sicbl_code","sicbl_name","denominator","population"
+2023,"E38000006","NHS South Yorkshire ICB - 02P","aged_16_59",136496
+2023,"E38000006","NHS South Yorkshire ICB - 02P","children_0_15",45178
+2023,"E38000006","NHS South Yorkshire ICB - 02P","older_60_plus",64774
+2023,"E38000006","NHS South Yorkshire ICB - 02P","total",246448
+2023,"E38000006","NHS South Yorkshire ICB - 02P","working_age_18_66",152884
+2023,"E38000007","NHS Mid and South Essex ICB - 99E","aged_16_59",148767
+2023,"E38000007","NHS Mid and South Essex ICB - 99E","children_0_15",53839
+2023,"E38000007","NHS Mid and South Essex ICB - 99E","older_60_plus",63552
+2023,"E38000007","NHS Mid and South Essex ICB - 99E","total",266158
+2023,"E38000007","NHS Mid and South Essex ICB - 99E","working_age_18_66",163141
+2023,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","aged_16_59",64159
+2023,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","children_0_15",20870
+2023,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","older_60_plus",34956
+2023,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","total",119985
+2023,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","working_age_18_66",72656
+2023,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","aged_16_59",89520
+2023,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","children_0_15",35362
+2023,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","older_60_plus",30941
+2023,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","total",155823
+2023,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","working_age_18_66",95959
+2023,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","aged_16_59",77263
+2023,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","children_0_15",25015
+2023,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","older_60_plus",39370
+2023,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","total",141648
+2023,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","working_age_18_66",87400
+2023,"E38000016","NHS Greater Manchester ICB - 00T","aged_16_59",166607
+2023,"E38000016","NHS Greater Manchester ICB - 00T","children_0_15",64479
+2023,"E38000016","NHS Greater Manchester ICB - 00T","older_60_plus",68067
+2023,"E38000016","NHS Greater Manchester ICB - 00T","total",299153
+2023,"E38000016","NHS Greater Manchester ICB - 00T","working_age_18_66",181037
+2023,"E38000021","NHS Sussex ICB - 09D","aged_16_59",183243
+2023,"E38000021","NHS Sussex ICB - 09D","children_0_15",41371
+2023,"E38000021","NHS Sussex ICB - 09D","older_60_plus",53756
+2023,"E38000021","NHS Sussex ICB - 09D","total",278370
+2023,"E38000021","NHS Sussex ICB - 09D","working_age_18_66",196302
+2023,"E38000024","NHS Greater Manchester ICB - 00V","aged_16_59",108297
+2023,"E38000024","NHS Greater Manchester ICB - 00V","children_0_15",38881
+2023,"E38000024","NHS Greater Manchester ICB - 00V","older_60_plus",47412
+2023,"E38000024","NHS Greater Manchester ICB - 00V","total",194590
+2023,"E38000024","NHS Greater Manchester ICB - 00V","working_age_18_66",118866
+2023,"E38000025","NHS West Yorkshire ICB - 02T","aged_16_59",114475
+2023,"E38000025","NHS West Yorkshire ICB - 02T","children_0_15",39812
+2023,"E38000025","NHS West Yorkshire ICB - 02T","older_60_plus",53373
+2023,"E38000025","NHS West Yorkshire ICB - 02T","total",207660
+2023,"E38000025","NHS West Yorkshire ICB - 02T","working_age_18_66",127353
+2023,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","aged_16_59",76279
+2023,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","children_0_15",24419
+2023,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","older_60_plus",37026
+2023,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","total",137724
+2023,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","working_age_18_66",85344
+2023,"E38000030","NHS Mid and South Essex ICB - 99F","aged_16_59",91574
+2023,"E38000030","NHS Mid and South Essex ICB - 99F","children_0_15",30612
+2023,"E38000030","NHS Mid and South Essex ICB - 99F","older_60_plus",54752
+2023,"E38000030","NHS Mid and South Essex ICB - 99F","total",176938
+2023,"E38000030","NHS Mid and South Essex ICB - 99F","working_age_18_66",103332
+2023,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","aged_16_59",99688
+2023,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","children_0_15",32502
+2023,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","older_60_plus",48296
+2023,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","total",180486
+2023,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","working_age_18_66",111091
+2023,"E38000044","NHS South Yorkshire ICB - 02X","aged_16_59",171952
+2023,"E38000044","NHS South Yorkshire ICB - 02X","children_0_15",57944
+2023,"E38000044","NHS South Yorkshire ICB - 02X","older_60_plus",81068
+2023,"E38000044","NHS South Yorkshire ICB - 02X","total",310964
+2023,"E38000044","NHS South Yorkshire ICB - 02X","working_age_18_66",192258
+2023,"E38000045","NHS Dorset ICB - 11J","aged_16_59",405567
+2023,"E38000045","NHS Dorset ICB - 11J","children_0_15",123586
+2023,"E38000045","NHS Dorset ICB - 11J","older_60_plus",256779
+2023,"E38000045","NHS Dorset ICB - 11J","total",785932
+2023,"E38000045","NHS Dorset ICB - 11J","working_age_18_66",463283
+2023,"E38000049","NHS Hertfordshire and West Essex ICB - 06K","aged_16_59",328489
+2023,"E38000049","NHS Hertfordshire and West Essex ICB - 06K","children_0_15",111460
+2023,"E38000049","NHS Hertfordshire and West Essex ICB - 06K","older_60_plus",134419
+2023,"E38000049","NHS Hertfordshire and West Essex ICB - 06K","total",574368
+2023,"E38000049","NHS Hertfordshire and West Essex ICB - 06K","working_age_18_66",359684
+2023,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","aged_16_59",217117
+2023,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","children_0_15",78778
+2023,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","older_60_plus",101409
+2023,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","total",397304
+2023,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","working_age_18_66",240515
+2023,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","aged_16_59",187154
+2023,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","children_0_15",62312
+2023,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","older_60_plus",101201
+2023,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","total",350667
+2023,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","working_age_18_66",209773
+2023,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","aged_16_59",160555
+2023,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","children_0_15",50474
+2023,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","older_60_plus",110734
+2023,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","total",321763
+2023,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","working_age_18_66",187062
+2023,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","aged_16_59",75739
+2023,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","children_0_15",25790
+2023,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","older_60_plus",35044
+2023,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","total",136573
+2023,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","working_age_18_66",84226
+2023,"E38000062","NHS Gloucestershire ICB - 11M","aged_16_59",351899
+2023,"E38000062","NHS Gloucestershire ICB - 11M","children_0_15",114379
+2023,"E38000062","NHS Gloucestershire ICB - 11M","older_60_plus",186388
+2023,"E38000062","NHS Gloucestershire ICB - 11M","total",652666
+2023,"E38000062","NHS Gloucestershire ICB - 11M","working_age_18_66",395790
+2023,"E38000068","NHS Cheshire and Merseyside ICB - 01F","aged_16_59",71661
+2023,"E38000068","NHS Cheshire and Merseyside ICB - 01F","children_0_15",24353
+2023,"E38000068","NHS Cheshire and Merseyside ICB - 01F","older_60_plus",32994
+2023,"E38000068","NHS Cheshire and Merseyside ICB - 01F","total",129008
+2023,"E38000068","NHS Cheshire and Merseyside ICB - 01F","working_age_18_66",79979
+2023,"E38000079","NHS Hertfordshire and West Essex ICB - 06N","aged_16_59",346619
+2023,"E38000079","NHS Hertfordshire and West Essex ICB - 06N","children_0_15",125771
+2023,"E38000079","NHS Hertfordshire and West Essex ICB - 06N","older_60_plus",137834
+2023,"E38000079","NHS Hertfordshire and West Essex ICB - 06N","total",610224
+2023,"E38000079","NHS Hertfordshire and West Essex ICB - 06N","working_age_18_66",376867
+2023,"E38000080","NHS Greater Manchester ICB - 01D","aged_16_59",127084
+2023,"E38000080","NHS Greater Manchester ICB - 01D","children_0_15",49481
+2023,"E38000080","NHS Greater Manchester ICB - 01D","older_60_plus",50385
+2023,"E38000080","NHS Greater Manchester ICB - 01D","total",226950
+2023,"E38000080","NHS Greater Manchester ICB - 01D","working_age_18_66",138420
+2023,"E38000085","NHS Humber and North Yorkshire ICB - 03F","aged_16_59",158149
+2023,"E38000085","NHS Humber and North Yorkshire ICB - 03F","children_0_15",53493
+2023,"E38000085","NHS Humber and North Yorkshire ICB - 03F","older_60_plus",57035
+2023,"E38000085","NHS Humber and North Yorkshire ICB - 03F","total",268677
+2023,"E38000085","NHS Humber and North Yorkshire ICB - 03F","working_age_18_66",172393
+2023,"E38000086","NHS Suffolk and North East Essex ICB - 06L","aged_16_59",217499
+2023,"E38000086","NHS Suffolk and North East Essex ICB - 06L","children_0_15",71071
+2023,"E38000086","NHS Suffolk and North East Essex ICB - 06L","older_60_plus",126007
+2023,"E38000086","NHS Suffolk and North East Essex ICB - 06L","total",414577
+2023,"E38000086","NHS Suffolk and North East Essex ICB - 06L","working_age_18_66",246036
+2023,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","aged_16_59",294582
+2023,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","children_0_15",93718
+2023,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","older_60_plus",189513
+2023,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","total",577813
+2023,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","working_age_18_66",340095
+2023,"E38000091","NHS Cheshire and Merseyside ICB - 01J","aged_16_59",88429
+2023,"E38000091","NHS Cheshire and Merseyside ICB - 01J","children_0_15",31016
+2023,"E38000091","NHS Cheshire and Merseyside ICB - 01J","older_60_plus",37662
+2023,"E38000091","NHS Cheshire and Merseyside ICB - 01J","total",157107
+2023,"E38000091","NHS Cheshire and Merseyside ICB - 01J","working_age_18_66",99179
+2023,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","aged_16_59",232339
+2023,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","children_0_15",77855
+2023,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","older_60_plus",62301
+2023,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","total",372495
+2023,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","working_age_18_66",245965
+2023,"E38000101","NHS Cheshire and Merseyside ICB - 99A","aged_16_59",307108
+2023,"E38000101","NHS Cheshire and Merseyside ICB - 99A","children_0_15",84519
+2023,"E38000101","NHS Cheshire and Merseyside ICB - 99A","older_60_plus",104222
+2023,"E38000101","NHS Cheshire and Merseyside ICB - 99A","total",495849
+2023,"E38000101","NHS Cheshire and Merseyside ICB - 99A","working_age_18_66",335441
+2023,"E38000106","NHS Mid and South Essex ICB - 06Q","aged_16_59",223655
+2023,"E38000106","NHS Mid and South Essex ICB - 06Q","children_0_15",74435
+2023,"E38000106","NHS Mid and South Essex ICB - 06Q","older_60_plus",110497
+2023,"E38000106","NHS Mid and South Essex ICB - 06Q","total",408587
+2023,"E38000106","NHS Mid and South Essex ICB - 06Q","working_age_18_66",248380
+2023,"E38000117","NHS Suffolk and North East Essex ICB - 06T","aged_16_59",183791
+2023,"E38000117","NHS Suffolk and North East Essex ICB - 06T","children_0_15",60720
+2023,"E38000117","NHS Suffolk and North East Essex ICB - 06T","older_60_plus",101537
+2023,"E38000117","NHS Suffolk and North East Essex ICB - 06T","total",346048
+2023,"E38000117","NHS Suffolk and North East Essex ICB - 06T","working_age_18_66",206146
+2023,"E38000119","NHS Humber and North Yorkshire ICB - 03H","aged_16_59",84165
+2023,"E38000119","NHS Humber and North Yorkshire ICB - 03H","children_0_15",29325
+2023,"E38000119","NHS Humber and North Yorkshire ICB - 03H","older_60_plus",44255
+2023,"E38000119","NHS Humber and North Yorkshire ICB - 03H","total",157745
+2023,"E38000119","NHS Humber and North Yorkshire ICB - 03H","working_age_18_66",94930
+2023,"E38000122","NHS Humber and North Yorkshire ICB - 03K","aged_16_59",89867
+2023,"E38000122","NHS Humber and North Yorkshire ICB - 03K","children_0_15",30339
+2023,"E38000122","NHS Humber and North Yorkshire ICB - 03K","older_60_plus",49879
+2023,"E38000122","NHS Humber and North Yorkshire ICB - 03K","total",170085
+2023,"E38000122","NHS Humber and North Yorkshire ICB - 03K","working_age_18_66",101912
+2023,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","aged_16_59",114355
+2023,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","children_0_15",34047
+2023,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","older_60_plus",64856
+2023,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","total",213258
+2023,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","working_age_18_66",129708
+2023,"E38000127","NHS North East and North Cumbria ICB - 99C","aged_16_59",115328
+2023,"E38000127","NHS North East and North Cumbria ICB - 99C","children_0_15",37313
+2023,"E38000127","NHS North East and North Cumbria ICB - 99C","older_60_plus",57871
+2023,"E38000127","NHS North East and North Cumbria ICB - 99C","total",210512
+2023,"E38000127","NHS North East and North Cumbria ICB - 99C","working_age_18_66",129620
+2023,"E38000130","NHS North East and North Cumbria ICB - 00L","aged_16_59",162901
+2023,"E38000130","NHS North East and North Cumbria ICB - 00L","children_0_15",51686
+2023,"E38000130","NHS North East and North Cumbria ICB - 00L","older_60_plus",109699
+2023,"E38000130","NHS North East and North Cumbria ICB - 00L","total",324286
+2023,"E38000130","NHS North East and North Cumbria ICB - 00L","working_age_18_66",191179
+2023,"E38000135","NHS Greater Manchester ICB - 00Y","aged_16_59",136664
+2023,"E38000135","NHS Greater Manchester ICB - 00Y","children_0_15",55241
+2023,"E38000135","NHS Greater Manchester ICB - 00Y","older_60_plus",52088
+2023,"E38000135","NHS Greater Manchester ICB - 00Y","total",243993
+2023,"E38000135","NHS Greater Manchester ICB - 00Y","working_age_18_66",147038
+2023,"E38000136","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q","aged_16_59",420206
+2023,"E38000136","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q","children_0_15",128969
+2023,"E38000136","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q","older_60_plus",171582
+2023,"E38000136","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q","total",720757
+2023,"E38000136","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q","working_age_18_66",458542
+2023,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","aged_16_59",129308
+2023,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","children_0_15",37468
+2023,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","older_60_plus",42173
+2023,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","total",208949
+2023,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","working_age_18_66",139471
+2023,"E38000141","NHS South Yorkshire ICB - 03L","aged_16_59",147638
+2023,"E38000141","NHS South Yorkshire ICB - 03L","children_0_15",50793
+2023,"E38000141","NHS South Yorkshire ICB - 03L","older_60_plus",69836
+2023,"E38000141","NHS South Yorkshire ICB - 03L","total",268267
+2023,"E38000141","NHS South Yorkshire ICB - 03L","working_age_18_66",164140
+2023,"E38000143","NHS Greater Manchester ICB - 01G","aged_16_59",175341
+2023,"E38000143","NHS Greater Manchester ICB - 01G","children_0_15",54338
+2023,"E38000143","NHS Greater Manchester ICB - 01G","older_60_plus",49188
+2023,"E38000143","NHS Greater Manchester ICB - 01G","total",278867
+2023,"E38000143","NHS Greater Manchester ICB - 01G","working_age_18_66",186562
+2023,"E38000146","NHS South Yorkshire ICB - 03N","aged_16_59",336812
+2023,"E38000146","NHS South Yorkshire ICB - 03N","children_0_15",101182
+2023,"E38000146","NHS South Yorkshire ICB - 03N","older_60_plus",126708
+2023,"E38000146","NHS South Yorkshire ICB - 03N","total",564702
+2023,"E38000146","NHS South Yorkshire ICB - 03N","working_age_18_66",365659
+2023,"E38000150","NHS Somerset ICB - 11X","aged_16_59",294214
+2023,"E38000150","NHS Somerset ICB - 11X","children_0_15",97467
+2023,"E38000150","NHS Somerset ICB - 11X","older_60_plus",185410
+2023,"E38000150","NHS Somerset ICB - 11X","total",577091
+2023,"E38000150","NHS Somerset ICB - 11X","working_age_18_66",335997
+2023,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","aged_16_59",123613
+2023,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","children_0_15",39315
+2023,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","older_60_plus",68550
+2023,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","total",231478
+2023,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","working_age_18_66",139385
+2023,"E38000161","NHS Cheshire and Merseyside ICB - 01T","aged_16_59",88759
+2023,"E38000161","NHS Cheshire and Merseyside ICB - 01T","children_0_15",28942
+2023,"E38000161","NHS Cheshire and Merseyside ICB - 01T","older_60_plus",46033
+2023,"E38000161","NHS Cheshire and Merseyside ICB - 01T","total",163734
+2023,"E38000161","NHS Cheshire and Merseyside ICB - 01T","working_age_18_66",101392
+2023,"E38000163","NHS North East and North Cumbria ICB - 00N","aged_16_59",79805
+2023,"E38000163","NHS North East and North Cumbria ICB - 00N","children_0_15",26650
+2023,"E38000163","NHS North East and North Cumbria ICB - 00N","older_60_plus",42153
+2023,"E38000163","NHS North East and North Cumbria ICB - 00N","total",148608
+2023,"E38000163","NHS North East and North Cumbria ICB - 00N","working_age_18_66",91066
+2023,"E38000168","NHS Mid and South Essex ICB - 99G","aged_16_59",100803
+2023,"E38000168","NHS Mid and South Essex ICB - 99G","children_0_15",34238
+2023,"E38000168","NHS Mid and South Essex ICB - 99G","older_60_plus",45843
+2023,"E38000168","NHS Mid and South Essex ICB - 99G","total",180884
+2023,"E38000168","NHS Mid and South Essex ICB - 99G","working_age_18_66",111316
+2023,"E38000170","NHS Cheshire and Merseyside ICB - 01V","aged_16_59",58393
+2023,"E38000170","NHS Cheshire and Merseyside ICB - 01V","children_0_15",18462
+2023,"E38000170","NHS Cheshire and Merseyside ICB - 01V","older_60_plus",40450
+2023,"E38000170","NHS Cheshire and Merseyside ICB - 01V","total",117305
+2023,"E38000170","NHS Cheshire and Merseyside ICB - 01V","working_age_18_66",67588
+2023,"E38000172","NHS Cheshire and Merseyside ICB - 01X","aged_16_59",102009
+2023,"E38000172","NHS Cheshire and Merseyside ICB - 01X","children_0_15",32768
+2023,"E38000172","NHS Cheshire and Merseyside ICB - 01X","older_60_plus",49951
+2023,"E38000172","NHS Cheshire and Merseyside ICB - 01X","total",184728
+2023,"E38000172","NHS Cheshire and Merseyside ICB - 01X","working_age_18_66",113938
+2023,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","aged_16_59",83795
+2023,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","children_0_15",26704
+2023,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","older_60_plus",48712
+2023,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","total",159211
+2023,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","working_age_18_66",95113
+2023,"E38000174","NHS Greater Manchester ICB - 01W","aged_16_59",162192
+2023,"E38000174","NHS Greater Manchester ICB - 01W","children_0_15",56643
+2023,"E38000174","NHS Greater Manchester ICB - 01W","older_60_plus",78356
+2023,"E38000174","NHS Greater Manchester ICB - 01W","total",297191
+2023,"E38000174","NHS Greater Manchester ICB - 01W","working_age_18_66",179987
+2023,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","aged_16_59",151455
+2023,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","children_0_15",53826
+2023,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","older_60_plus",62777
+2023,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","total",268058
+2023,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","working_age_18_66",165827
+2023,"E38000176","NHS North East and North Cumbria ICB - 00P","aged_16_59",152258
+2023,"E38000176","NHS North East and North Cumbria ICB - 00P","children_0_15",48555
+2023,"E38000176","NHS North East and North Cumbria ICB - 00P","older_60_plus",76699
+2023,"E38000176","NHS North East and North Cumbria ICB - 00P","total",277512
+2023,"E38000176","NHS North East and North Cumbria ICB - 00P","working_age_18_66",172232
+2023,"E38000185","NHS Mid and South Essex ICB - 07G","aged_16_59",104018
+2023,"E38000185","NHS Mid and South Essex ICB - 07G","children_0_15",40014
+2023,"E38000185","NHS Mid and South Essex ICB - 07G","older_60_plus",32756
+2023,"E38000185","NHS Mid and South Essex ICB - 07G","total",176788
+2023,"E38000185","NHS Mid and South Essex ICB - 07G","working_age_18_66",110823
+2023,"E38000187","NHS Greater Manchester ICB - 02A","aged_16_59",131929
+2023,"E38000187","NHS Greater Manchester ICB - 02A","children_0_15",49529
+2023,"E38000187","NHS Greater Manchester ICB - 02A","older_60_plus",55193
+2023,"E38000187","NHS Greater Manchester ICB - 02A","total",236651
+2023,"E38000187","NHS Greater Manchester ICB - 02A","working_age_18_66",143883
+2023,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","aged_16_59",205916
+2023,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","children_0_15",57464
+2023,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","older_60_plus",100847
+2023,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","total",364227
+2023,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","working_age_18_66",229991
+2023,"E38000190","NHS West Yorkshire ICB - 03R","aged_16_59",199969
+2023,"E38000190","NHS West Yorkshire ICB - 03R","children_0_15",66729
+2023,"E38000190","NHS West Yorkshire ICB - 03R","older_60_plus",90280
+2023,"E38000190","NHS West Yorkshire ICB - 03R","total",356978
+2023,"E38000190","NHS West Yorkshire ICB - 03R","working_age_18_66",222132
+2023,"E38000194","NHS Cheshire and Merseyside ICB - 02E","aged_16_59",118422
+2023,"E38000194","NHS Cheshire and Merseyside ICB - 02E","children_0_15",38757
+2023,"E38000194","NHS Cheshire and Merseyside ICB - 02E","older_60_plus",54618
+2023,"E38000194","NHS Cheshire and Merseyside ICB - 02E","total",211797
+2023,"E38000194","NHS Cheshire and Merseyside ICB - 02E","working_age_18_66",131602
+2023,"E38000197","NHS Hertfordshire and West Essex ICB - 07H","aged_16_59",178857
+2023,"E38000197","NHS Hertfordshire and West Essex ICB - 07H","children_0_15",63716
+2023,"E38000197","NHS Hertfordshire and West Essex ICB - 07H","older_60_plus",79555
+2023,"E38000197","NHS Hertfordshire and West Essex ICB - 07H","total",322128
+2023,"E38000197","NHS Hertfordshire and West Essex ICB - 07H","working_age_18_66",197657
+2023,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","aged_16_59",65412
+2023,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","children_0_15",19480
+2023,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","older_60_plus",34468
+2023,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","total",119360
+2023,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","working_age_18_66",73674
+2023,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","aged_16_59",232347
+2023,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","children_0_15",71401
+2023,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","older_60_plus",109750
+2023,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","total",413498
+2023,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","working_age_18_66",258294
+2023,"E38000204","NHS Suffolk and North East Essex ICB - 07K","aged_16_59",128588
+2023,"E38000204","NHS Suffolk and North East Essex ICB - 07K","children_0_15",41408
+2023,"E38000204","NHS Suffolk and North East Essex ICB - 07K","older_60_plus",67574
+2023,"E38000204","NHS Suffolk and North East Essex ICB - 07K","total",237570
+2023,"E38000204","NHS Suffolk and North East Essex ICB - 07K","working_age_18_66",143532
+2023,"E38000205","NHS Greater Manchester ICB - 02H","aged_16_59",187134
+2023,"E38000205","NHS Greater Manchester ICB - 02H","children_0_15",61410
+2023,"E38000205","NHS Greater Manchester ICB - 02H","older_60_plus",85470
+2023,"E38000205","NHS Greater Manchester ICB - 02H","total",334014
+2023,"E38000205","NHS Greater Manchester ICB - 02H","working_age_18_66",207060
+2023,"E38000208","NHS Cheshire and Merseyside ICB - 12F","aged_16_59",170065
+2023,"E38000208","NHS Cheshire and Merseyside ICB - 12F","children_0_15",58110
+2023,"E38000208","NHS Cheshire and Merseyside ICB - 12F","older_60_plus",94264
+2023,"E38000208","NHS Cheshire and Merseyside ICB - 12F","total",322439
+2023,"E38000208","NHS Cheshire and Merseyside ICB - 12F","working_age_18_66",192768
+2023,"E38000212","NHS North East and North Cumbria ICB - 13T","aged_16_59",301915
+2023,"E38000212","NHS North East and North Cumbria ICB - 13T","children_0_15",87577
+2023,"E38000212","NHS North East and North Cumbria ICB - 13T","older_60_plus",114832
+2023,"E38000212","NHS North East and North Cumbria ICB - 13T","total",504324
+2023,"E38000212","NHS North East and North Cumbria ICB - 13T","working_age_18_66",330345
+2023,"E38000215","NHS North East and North Cumbria ICB - 01H","aged_16_59",168073
+2023,"E38000215","NHS North East and North Cumbria ICB - 01H","children_0_15",52379
+2023,"E38000215","NHS North East and North Cumbria ICB - 01H","older_60_plus",101957
+2023,"E38000215","NHS North East and North Cumbria ICB - 01H","total",322409
+2023,"E38000215","NHS North East and North Cumbria ICB - 01H","working_age_18_66",194510
+2023,"E38000217","NHS Greater Manchester ICB - 14L","aged_16_59",376164
+2023,"E38000217","NHS Greater Manchester ICB - 14L","children_0_15",114852
+2023,"E38000217","NHS Greater Manchester ICB - 14L","older_60_plus",75762
+2023,"E38000217","NHS Greater Manchester ICB - 14L","total",566778
+2023,"E38000217","NHS Greater Manchester ICB - 14L","working_age_18_66",392212
+2023,"E38000221","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A","aged_16_59",303952
+2023,"E38000221","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A","children_0_15",102230
+2023,"E38000221","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A","older_60_plus",113340
+2023,"E38000221","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A","total",519522
+2023,"E38000221","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A","working_age_18_66",329355
+2023,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","aged_16_59",597121
+2023,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","children_0_15",174796
+2023,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","older_60_plus",221191
+2023,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","total",993108
+2023,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","working_age_18_66",646269
+2023,"E38000223","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y","aged_16_59",310617
+2023,"E38000223","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y","children_0_15",112394
+2023,"E38000223","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y","older_60_plus",140771
+2023,"E38000223","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y","total",563782
+2023,"E38000223","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y","working_age_18_66",342029
+2023,"E38000225","NHS West Yorkshire ICB - 15F","aged_16_59",495979
+2023,"E38000225","NHS West Yorkshire ICB - 15F","children_0_15",154539
+2023,"E38000225","NHS West Yorkshire ICB - 15F","older_60_plus",170284
+2023,"E38000225","NHS West Yorkshire ICB - 15F","total",820802
+2023,"E38000225","NHS West Yorkshire ICB - 15F","working_age_18_66",534279
+2023,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","aged_16_59",97851
+2023,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","children_0_15",30651
+2023,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","older_60_plus",71809
+2023,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","total",200311
+2023,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","working_age_18_66",115077
+2023,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","aged_16_59",122146
+2023,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","children_0_15",39742
+2023,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","older_60_plus",50012
+2023,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","total",211900
+2023,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","working_age_18_66",134090
+2023,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","aged_16_59",178182
+2023,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","children_0_15",51367
+2023,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","older_60_plus",101775
+2023,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","total",331324
+2023,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","working_age_18_66",202625
+2023,"E38000230","NHS Devon ICB - 15N","aged_16_59",648184
+2023,"E38000230","NHS Devon ICB - 15N","children_0_15",197590
+2023,"E38000230","NHS Devon ICB - 15N","older_60_plus",386806
+2023,"E38000230","NHS Devon ICB - 15N","total",1232580
+2023,"E38000230","NHS Devon ICB - 15N","working_age_18_66",738238
+2023,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","aged_16_59",530570
+2023,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","children_0_15",171748
+2023,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","older_60_plus",252131
+2023,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","total",954449
+2023,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","working_age_18_66",589684
+2023,"E38000232","NHS West Yorkshire ICB - 36J","aged_16_59",339374
+2023,"E38000232","NHS West Yorkshire ICB - 36J","children_0_15",132448
+2023,"E38000232","NHS West Yorkshire ICB - 36J","older_60_plus",132841
+2023,"E38000232","NHS West Yorkshire ICB - 36J","total",604663
+2023,"E38000232","NHS West Yorkshire ICB - 36J","working_age_18_66",367630
+2023,"E38000233","NHS Cheshire and Merseyside ICB - 27D","aged_16_59",414979
+2023,"E38000233","NHS Cheshire and Merseyside ICB - 27D","children_0_15",133487
+2023,"E38000233","NHS Cheshire and Merseyside ICB - 27D","older_60_plus",219920
+2023,"E38000233","NHS Cheshire and Merseyside ICB - 27D","total",768386
+2023,"E38000233","NHS Cheshire and Merseyside ICB - 27D","working_age_18_66",466482
+2023,"E38000234","NHS North East and North Cumbria ICB - 84H","aged_16_59",289572
+2023,"E38000234","NHS North East and North Cumbria ICB - 84H","children_0_15",88049
+2023,"E38000234","NHS North East and North Cumbria ICB - 84H","older_60_plus",150083
+2023,"E38000234","NHS North East and North Cumbria ICB - 84H","total",527704
+2023,"E38000234","NHS North East and North Cumbria ICB - 84H","working_age_18_66",327757
+2023,"E38000235","NHS Sussex ICB - 97R","aged_16_59",276028
+2023,"E38000235","NHS Sussex ICB - 97R","children_0_15",90657
+2023,"E38000235","NHS Sussex ICB - 97R","older_60_plus",184322
+2023,"E38000235","NHS Sussex ICB - 97R","total",551007
+2023,"E38000235","NHS Sussex ICB - 97R","working_age_18_66",317144
+2023,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","aged_16_59",417911
+2023,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","children_0_15",135073
+2023,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","older_60_plus",245035
+2023,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","total",798019
+2023,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","working_age_18_66",473951
+2023,"E38000237","NHS Kent and Medway ICB - 91Q","aged_16_59",1028403
+2023,"E38000237","NHS Kent and Medway ICB - 91Q","children_0_15",362952
+2023,"E38000237","NHS Kent and Medway ICB - 91Q","older_60_plus",486062
+2023,"E38000237","NHS Kent and Medway ICB - 91Q","total",1877417
+2023,"E38000237","NHS Kent and Medway ICB - 91Q","working_age_18_66",1136342
+2023,"E38000238","NHS Lincolnshire ICB - 71E","aged_16_59",408272
+2023,"E38000238","NHS Lincolnshire ICB - 71E","children_0_15",129322
+2023,"E38000238","NHS Lincolnshire ICB - 71E","older_60_plus",238270
+2023,"E38000238","NHS Lincolnshire ICB - 71E","total",775864
+2023,"E38000238","NHS Lincolnshire ICB - 71E","working_age_18_66",465255
+2023,"E38000239","NHS Norfolk and Waveney ICB - 26A","aged_16_59",542138
+2023,"E38000239","NHS Norfolk and Waveney ICB - 26A","children_0_15",168892
+2023,"E38000239","NHS Norfolk and Waveney ICB - 26A","older_60_plus",331237
+2023,"E38000239","NHS Norfolk and Waveney ICB - 26A","total",1042267
+2023,"E38000239","NHS Norfolk and Waveney ICB - 26A","working_age_18_66",617742
+2023,"E38000240","NHS North Central London ICB - 93C","aged_16_59",904727
+2023,"E38000240","NHS North Central London ICB - 93C","children_0_15",265473
+2023,"E38000240","NHS North Central London ICB - 93C","older_60_plus",246944
+2023,"E38000240","NHS North Central London ICB - 93C","total",1417144
+2023,"E38000240","NHS North Central London ICB - 93C","working_age_18_66",962422
+2023,"E38000241","NHS Humber and North Yorkshire ICB - 42D","aged_16_59",219497
+2023,"E38000241","NHS Humber and North Yorkshire ICB - 42D","children_0_15",68429
+2023,"E38000241","NHS Humber and North Yorkshire ICB - 42D","older_60_plus",142599
+2023,"E38000241","NHS Humber and North Yorkshire ICB - 42D","total",430525
+2023,"E38000241","NHS Humber and North Yorkshire ICB - 42D","working_age_18_66",253535
+2023,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","aged_16_59",604313
+2023,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","children_0_15",186794
+2023,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","older_60_plus",251386
+2023,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","total",1042493
+2023,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","working_age_18_66",663358
+2023,"E38000244","NHS South East London ICB - 72Q","aged_16_59",1162909
+2023,"E38000244","NHS South East London ICB - 72Q","children_0_15",329247
+2023,"E38000244","NHS South East London ICB - 72Q","older_60_plus",304381
+2023,"E38000244","NHS South East London ICB - 72Q","total",1796537
+2023,"E38000244","NHS South East London ICB - 72Q","working_age_18_66",1239796
+2023,"E38000245","NHS South West London ICB - 36L","aged_16_59",940280
+2023,"E38000245","NHS South West London ICB - 36L","children_0_15",292676
+2023,"E38000245","NHS South West London ICB - 36L","older_60_plus",278673
+2023,"E38000245","NHS South West London ICB - 36L","total",1511629
+2023,"E38000245","NHS South West London ICB - 36L","working_age_18_66",1005472
+2023,"E38000247","NHS North East and North Cumbria ICB - 16C","aged_16_59",375000
+2023,"E38000247","NHS North East and North Cumbria ICB - 16C","children_0_15",131138
+2023,"E38000247","NHS North East and North Cumbria ICB - 16C","older_60_plus",182985
+2023,"E38000247","NHS North East and North Cumbria ICB - 16C","total",689123
+2023,"E38000247","NHS North East and North Cumbria ICB - 16C","working_age_18_66",420739
+2023,"E38000249","NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y","aged_16_59",591156
+2023,"E38000249","NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y","children_0_15",214769
+2023,"E38000249","NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y","older_60_plus",210455
+2023,"E38000249","NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y","total",1016380
+2023,"E38000249","NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y","working_age_18_66",639117
+2023,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","aged_16_59",551123
+2023,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","children_0_15",178872
+2023,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","older_60_plus",230607
+2023,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","total",960602
+2023,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","working_age_18_66",602574
+2023,"E38000252","NHS Frimley ICB - D4U1Y","aged_16_59",450180
+2023,"E38000252","NHS Frimley ICB - D4U1Y","children_0_15",156465
+2023,"E38000252","NHS Frimley ICB - D4U1Y","older_60_plus",167610
+2023,"E38000252","NHS Frimley ICB - D4U1Y","total",774255
+2023,"E38000252","NHS Frimley ICB - D4U1Y","working_age_18_66",486423
+2023,"E38000253","NHS Hampshire and Isle of Wight ICB - D9Y0V","aged_16_59",885886
+2023,"E38000253","NHS Hampshire and Isle of Wight ICB - D9Y0V","children_0_15",283787
+2023,"E38000253","NHS Hampshire and Isle of Wight ICB - D9Y0V","older_60_plus",463910
+2023,"E38000253","NHS Hampshire and Isle of Wight ICB - D9Y0V","total",1633583
+2023,"E38000253","NHS Hampshire and Isle of Wight ICB - D9Y0V","working_age_18_66",993298
+2023,"E38000254","NHS West Yorkshire ICB - X2C4Y","aged_16_59",247138
+2023,"E38000254","NHS West Yorkshire ICB - X2C4Y","children_0_15",87050
+2023,"E38000254","NHS West Yorkshire ICB - X2C4Y","older_60_plus",103606
+2023,"E38000254","NHS West Yorkshire ICB - X2C4Y","total",437794
+2023,"E38000254","NHS West Yorkshire ICB - X2C4Y","working_age_18_66",270140
+2023,"E38000255","NHS North East London ICB - A3A8R","aged_16_59",1323827
+2023,"E38000255","NHS North East London ICB - A3A8R","children_0_15",417508
+2023,"E38000255","NHS North East London ICB - A3A8R","older_60_plus",285296
+2023,"E38000255","NHS North East London ICB - A3A8R","total",2026631
+2023,"E38000255","NHS North East London ICB - A3A8R","working_age_18_66",1386378
+2023,"E38000256","NHS North West London ICB - W2U3Z","aged_16_59",1351347
+2023,"E38000256","NHS North West London ICB - W2U3Z","children_0_15",389487
+2023,"E38000256","NHS North West London ICB - W2U3Z","older_60_plus",376268
+2023,"E38000256","NHS North West London ICB - W2U3Z","total",2117102
+2023,"E38000256","NHS North West London ICB - W2U3Z","working_age_18_66",1443025
+2023,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","aged_16_59",273746
+2023,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","children_0_15",89480
+2023,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","older_60_plus",153253
+2023,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","total",516479
+2023,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","working_age_18_66",309457
+2023,"E38000258","NHS Birmingham and Solihull ICB - 15E","aged_16_59",809146
+2023,"E38000258","NHS Birmingham and Solihull ICB - 15E","children_0_15",297360
+2023,"E38000258","NHS Birmingham and Solihull ICB - 15E","older_60_plus",265499
+2023,"E38000258","NHS Birmingham and Solihull ICB - 15E","total",1372005
+2023,"E38000258","NHS Birmingham and Solihull ICB - 15E","working_age_18_66",861611
+2023,"E38000259","NHS Black Country ICB - D2P2L","aged_16_59",689209
+2023,"E38000259","NHS Black Country ICB - D2P2L","children_0_15",255789
+2023,"E38000259","NHS Black Country ICB - D2P2L","older_60_plus",278621
+2023,"E38000259","NHS Black Country ICB - D2P2L","total",1223619
+2023,"E38000259","NHS Black Country ICB - D2P2L","working_age_18_66",749017
+2023,"E38000260","NHS Cambridgeshire and Peterborough ICB - 06H","aged_16_59",536594
+2023,"E38000260","NHS Cambridgeshire and Peterborough ICB - 06H","children_0_15",174813
+2023,"E38000260","NHS Cambridgeshire and Peterborough ICB - 06H","older_60_plus",216853
+2023,"E38000260","NHS Cambridgeshire and Peterborough ICB - 06H","total",928260
+2023,"E38000260","NHS Cambridgeshire and Peterborough ICB - 06H","working_age_18_66",584878
+2023,"E38000261","NHS Derby and Derbyshire ICB - 15M","aged_16_59",585939
+2023,"E38000261","NHS Derby and Derbyshire ICB - 15M","children_0_15",188510
+2023,"E38000261","NHS Derby and Derbyshire ICB - 15M","older_60_plus",292626
+2023,"E38000261","NHS Derby and Derbyshire ICB - 15M","total",1067075
+2023,"E38000261","NHS Derby and Derbyshire ICB - 15M","working_age_18_66",656400
+2023,"E38000262","NHS Northamptonshire ICB - 78H","aged_16_59",451457
+2023,"E38000262","NHS Northamptonshire ICB - 78H","children_0_15",154310
+2023,"E38000262","NHS Northamptonshire ICB - 78H","older_60_plus",186988
+2023,"E38000262","NHS Northamptonshire ICB - 78H","total",792755
+2023,"E38000262","NHS Northamptonshire ICB - 78H","working_age_18_66",494154
+2023,"E38000263","NHS Greater Manchester ICB - 01Y","aged_16_59",131353
+2023,"E38000263","NHS Greater Manchester ICB - 01Y","children_0_15",46105
+2023,"E38000263","NHS Greater Manchester ICB - 01Y","older_60_plus",55348
+2023,"E38000263","NHS Greater Manchester ICB - 01Y","total",232806
+2023,"E38000263","NHS Greater Manchester ICB - 01Y","working_age_18_66",144940
+2023,"E38000264","NHS Surrey Heartlands ICB - 92A","aged_16_59",591418
+2023,"E38000264","NHS Surrey Heartlands ICB - 92A","children_0_15",205410
+2023,"E38000264","NHS Surrey Heartlands ICB - 92A","older_60_plus",263855
+2023,"E38000264","NHS Surrey Heartlands ICB - 92A","total",1060683
+2023,"E38000264","NHS Surrey Heartlands ICB - 92A","working_age_18_66",648910
+2023,"E38000265","NHS Sussex ICB - 70F","aged_16_59",471906
+2023,"E38000265","NHS Sussex ICB - 70F","children_0_15",157610
+2023,"E38000265","NHS Sussex ICB - 70F","older_60_plus",263291
+2023,"E38000265","NHS Sussex ICB - 70F","total",892807
+2023,"E38000265","NHS Sussex ICB - 70F","working_age_18_66",530232
+2024,"E38000006","NHS South Yorkshire ICB - 02P","aged_16_59",136496
+2024,"E38000006","NHS South Yorkshire ICB - 02P","children_0_15",45178
+2024,"E38000006","NHS South Yorkshire ICB - 02P","older_60_plus",64774
+2024,"E38000006","NHS South Yorkshire ICB - 02P","total",246448
+2024,"E38000006","NHS South Yorkshire ICB - 02P","working_age_18_66",152884
+2024,"E38000007","NHS Mid and South Essex ICB - 99E","aged_16_59",148767
+2024,"E38000007","NHS Mid and South Essex ICB - 99E","children_0_15",53839
+2024,"E38000007","NHS Mid and South Essex ICB - 99E","older_60_plus",63552
+2024,"E38000007","NHS Mid and South Essex ICB - 99E","total",266158
+2024,"E38000007","NHS Mid and South Essex ICB - 99E","working_age_18_66",163141
+2024,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","aged_16_59",64159
+2024,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","children_0_15",20870
+2024,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","older_60_plus",34956
+2024,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","total",119985
+2024,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","working_age_18_66",72656
+2024,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","aged_16_59",89520
+2024,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","children_0_15",35362
+2024,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","older_60_plus",30941
+2024,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","total",155823
+2024,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","working_age_18_66",95959
+2024,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","aged_16_59",77263
+2024,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","children_0_15",25015
+2024,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","older_60_plus",39370
+2024,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","total",141648
+2024,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","working_age_18_66",87400
+2024,"E38000016","NHS Greater Manchester ICB - 00T","aged_16_59",166607
+2024,"E38000016","NHS Greater Manchester ICB - 00T","children_0_15",64479
+2024,"E38000016","NHS Greater Manchester ICB - 00T","older_60_plus",68067
+2024,"E38000016","NHS Greater Manchester ICB - 00T","total",299153
+2024,"E38000016","NHS Greater Manchester ICB - 00T","working_age_18_66",181037
+2024,"E38000021","NHS Sussex ICB - 09D","aged_16_59",183243
+2024,"E38000021","NHS Sussex ICB - 09D","children_0_15",41371
+2024,"E38000021","NHS Sussex ICB - 09D","older_60_plus",53756
+2024,"E38000021","NHS Sussex ICB - 09D","total",278370
+2024,"E38000021","NHS Sussex ICB - 09D","working_age_18_66",196302
+2024,"E38000024","NHS Greater Manchester ICB - 00V","aged_16_59",108297
+2024,"E38000024","NHS Greater Manchester ICB - 00V","children_0_15",38881
+2024,"E38000024","NHS Greater Manchester ICB - 00V","older_60_plus",47412
+2024,"E38000024","NHS Greater Manchester ICB - 00V","total",194590
+2024,"E38000024","NHS Greater Manchester ICB - 00V","working_age_18_66",118866
+2024,"E38000025","NHS West Yorkshire ICB - 02T","aged_16_59",114475
+2024,"E38000025","NHS West Yorkshire ICB - 02T","children_0_15",39812
+2024,"E38000025","NHS West Yorkshire ICB - 02T","older_60_plus",53373
+2024,"E38000025","NHS West Yorkshire ICB - 02T","total",207660
+2024,"E38000025","NHS West Yorkshire ICB - 02T","working_age_18_66",127353
+2024,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","aged_16_59",76279
+2024,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","children_0_15",24419
+2024,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","older_60_plus",37026
+2024,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","total",137724
+2024,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","working_age_18_66",85344
+2024,"E38000030","NHS Mid and South Essex ICB - 99F","aged_16_59",91574
+2024,"E38000030","NHS Mid and South Essex ICB - 99F","children_0_15",30612
+2024,"E38000030","NHS Mid and South Essex ICB - 99F","older_60_plus",54752
+2024,"E38000030","NHS Mid and South Essex ICB - 99F","total",176938
+2024,"E38000030","NHS Mid and South Essex ICB - 99F","working_age_18_66",103332
+2024,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","aged_16_59",99688
+2024,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","children_0_15",32502
+2024,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","older_60_plus",48296
+2024,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","total",180486
+2024,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","working_age_18_66",111091
+2024,"E38000044","NHS South Yorkshire ICB - 02X","aged_16_59",171952
+2024,"E38000044","NHS South Yorkshire ICB - 02X","children_0_15",57944
+2024,"E38000044","NHS South Yorkshire ICB - 02X","older_60_plus",81068
+2024,"E38000044","NHS South Yorkshire ICB - 02X","total",310964
+2024,"E38000044","NHS South Yorkshire ICB - 02X","working_age_18_66",192258
+2024,"E38000045","NHS Dorset ICB - 11J","aged_16_59",405567
+2024,"E38000045","NHS Dorset ICB - 11J","children_0_15",123586
+2024,"E38000045","NHS Dorset ICB - 11J","older_60_plus",256779
+2024,"E38000045","NHS Dorset ICB - 11J","total",785932
+2024,"E38000045","NHS Dorset ICB - 11J","working_age_18_66",463283
+2024,"E38000049","NHS Hertfordshire and West Essex ICB - 06K","aged_16_59",328489
+2024,"E38000049","NHS Hertfordshire and West Essex ICB - 06K","children_0_15",111460
+2024,"E38000049","NHS Hertfordshire and West Essex ICB - 06K","older_60_plus",134419
+2024,"E38000049","NHS Hertfordshire and West Essex ICB - 06K","total",574368
+2024,"E38000049","NHS Hertfordshire and West Essex ICB - 06K","working_age_18_66",359684
+2024,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","aged_16_59",217117
+2024,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","children_0_15",78778
+2024,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","older_60_plus",101409
+2024,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","total",397304
+2024,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","working_age_18_66",240515
+2024,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","aged_16_59",187154
+2024,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","children_0_15",62312
+2024,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","older_60_plus",101201
+2024,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","total",350667
+2024,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","working_age_18_66",209773
+2024,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","aged_16_59",160555
+2024,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","children_0_15",50474
+2024,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","older_60_plus",110734
+2024,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","total",321763
+2024,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","working_age_18_66",187062
+2024,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","aged_16_59",75739
+2024,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","children_0_15",25790
+2024,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","older_60_plus",35044
+2024,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","total",136573
+2024,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","working_age_18_66",84226
+2024,"E38000062","NHS Gloucestershire ICB - 11M","aged_16_59",351899
+2024,"E38000062","NHS Gloucestershire ICB - 11M","children_0_15",114379
+2024,"E38000062","NHS Gloucestershire ICB - 11M","older_60_plus",186388
+2024,"E38000062","NHS Gloucestershire ICB - 11M","total",652666
+2024,"E38000062","NHS Gloucestershire ICB - 11M","working_age_18_66",395790
+2024,"E38000068","NHS Cheshire and Merseyside ICB - 01F","aged_16_59",71661
+2024,"E38000068","NHS Cheshire and Merseyside ICB - 01F","children_0_15",24353
+2024,"E38000068","NHS Cheshire and Merseyside ICB - 01F","older_60_plus",32994
+2024,"E38000068","NHS Cheshire and Merseyside ICB - 01F","total",129008
+2024,"E38000068","NHS Cheshire and Merseyside ICB - 01F","working_age_18_66",79979
+2024,"E38000079","NHS Hertfordshire and West Essex ICB - 06N","aged_16_59",346619
+2024,"E38000079","NHS Hertfordshire and West Essex ICB - 06N","children_0_15",125771
+2024,"E38000079","NHS Hertfordshire and West Essex ICB - 06N","older_60_plus",137834
+2024,"E38000079","NHS Hertfordshire and West Essex ICB - 06N","total",610224
+2024,"E38000079","NHS Hertfordshire and West Essex ICB - 06N","working_age_18_66",376867
+2024,"E38000080","NHS Greater Manchester ICB - 01D","aged_16_59",127084
+2024,"E38000080","NHS Greater Manchester ICB - 01D","children_0_15",49481
+2024,"E38000080","NHS Greater Manchester ICB - 01D","older_60_plus",50385
+2024,"E38000080","NHS Greater Manchester ICB - 01D","total",226950
+2024,"E38000080","NHS Greater Manchester ICB - 01D","working_age_18_66",138420
+2024,"E38000085","NHS Humber and North Yorkshire ICB - 03F","aged_16_59",158149
+2024,"E38000085","NHS Humber and North Yorkshire ICB - 03F","children_0_15",53493
+2024,"E38000085","NHS Humber and North Yorkshire ICB - 03F","older_60_plus",57035
+2024,"E38000085","NHS Humber and North Yorkshire ICB - 03F","total",268677
+2024,"E38000085","NHS Humber and North Yorkshire ICB - 03F","working_age_18_66",172393
+2024,"E38000086","NHS Suffolk and North East Essex ICB - 06L","aged_16_59",217499
+2024,"E38000086","NHS Suffolk and North East Essex ICB - 06L","children_0_15",71071
+2024,"E38000086","NHS Suffolk and North East Essex ICB - 06L","older_60_plus",126007
+2024,"E38000086","NHS Suffolk and North East Essex ICB - 06L","total",414577
+2024,"E38000086","NHS Suffolk and North East Essex ICB - 06L","working_age_18_66",246036
+2024,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","aged_16_59",294582
+2024,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","children_0_15",93718
+2024,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","older_60_plus",189513
+2024,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","total",577813
+2024,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","working_age_18_66",340095
+2024,"E38000091","NHS Cheshire and Merseyside ICB - 01J","aged_16_59",88429
+2024,"E38000091","NHS Cheshire and Merseyside ICB - 01J","children_0_15",31016
+2024,"E38000091","NHS Cheshire and Merseyside ICB - 01J","older_60_plus",37662
+2024,"E38000091","NHS Cheshire and Merseyside ICB - 01J","total",157107
+2024,"E38000091","NHS Cheshire and Merseyside ICB - 01J","working_age_18_66",99179
+2024,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","aged_16_59",232339
+2024,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","children_0_15",77855
+2024,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","older_60_plus",62301
+2024,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","total",372495
+2024,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","working_age_18_66",245965
+2024,"E38000101","NHS Cheshire and Merseyside ICB - 99A","aged_16_59",307108
+2024,"E38000101","NHS Cheshire and Merseyside ICB - 99A","children_0_15",84519
+2024,"E38000101","NHS Cheshire and Merseyside ICB - 99A","older_60_plus",104222
+2024,"E38000101","NHS Cheshire and Merseyside ICB - 99A","total",495849
+2024,"E38000101","NHS Cheshire and Merseyside ICB - 99A","working_age_18_66",335441
+2024,"E38000106","NHS Mid and South Essex ICB - 06Q","aged_16_59",223655
+2024,"E38000106","NHS Mid and South Essex ICB - 06Q","children_0_15",74435
+2024,"E38000106","NHS Mid and South Essex ICB - 06Q","older_60_plus",110497
+2024,"E38000106","NHS Mid and South Essex ICB - 06Q","total",408587
+2024,"E38000106","NHS Mid and South Essex ICB - 06Q","working_age_18_66",248380
+2024,"E38000117","NHS Suffolk and North East Essex ICB - 06T","aged_16_59",183791
+2024,"E38000117","NHS Suffolk and North East Essex ICB - 06T","children_0_15",60720
+2024,"E38000117","NHS Suffolk and North East Essex ICB - 06T","older_60_plus",101537
+2024,"E38000117","NHS Suffolk and North East Essex ICB - 06T","total",346048
+2024,"E38000117","NHS Suffolk and North East Essex ICB - 06T","working_age_18_66",206146
+2024,"E38000119","NHS Humber and North Yorkshire ICB - 03H","aged_16_59",84165
+2024,"E38000119","NHS Humber and North Yorkshire ICB - 03H","children_0_15",29325
+2024,"E38000119","NHS Humber and North Yorkshire ICB - 03H","older_60_plus",44255
+2024,"E38000119","NHS Humber and North Yorkshire ICB - 03H","total",157745
+2024,"E38000119","NHS Humber and North Yorkshire ICB - 03H","working_age_18_66",94930
+2024,"E38000122","NHS Humber and North Yorkshire ICB - 03K","aged_16_59",89867
+2024,"E38000122","NHS Humber and North Yorkshire ICB - 03K","children_0_15",30339
+2024,"E38000122","NHS Humber and North Yorkshire ICB - 03K","older_60_plus",49879
+2024,"E38000122","NHS Humber and North Yorkshire ICB - 03K","total",170085
+2024,"E38000122","NHS Humber and North Yorkshire ICB - 03K","working_age_18_66",101912
+2024,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","aged_16_59",114355
+2024,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","children_0_15",34047
+2024,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","older_60_plus",64856
+2024,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","total",213258
+2024,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","working_age_18_66",129708
+2024,"E38000127","NHS North East and North Cumbria ICB - 99C","aged_16_59",115328
+2024,"E38000127","NHS North East and North Cumbria ICB - 99C","children_0_15",37313
+2024,"E38000127","NHS North East and North Cumbria ICB - 99C","older_60_plus",57871
+2024,"E38000127","NHS North East and North Cumbria ICB - 99C","total",210512
+2024,"E38000127","NHS North East and North Cumbria ICB - 99C","working_age_18_66",129620
+2024,"E38000130","NHS North East and North Cumbria ICB - 00L","aged_16_59",162901
+2024,"E38000130","NHS North East and North Cumbria ICB - 00L","children_0_15",51686
+2024,"E38000130","NHS North East and North Cumbria ICB - 00L","older_60_plus",109699
+2024,"E38000130","NHS North East and North Cumbria ICB - 00L","total",324286
+2024,"E38000130","NHS North East and North Cumbria ICB - 00L","working_age_18_66",191179
+2024,"E38000135","NHS Greater Manchester ICB - 00Y","aged_16_59",136664
+2024,"E38000135","NHS Greater Manchester ICB - 00Y","children_0_15",55241
+2024,"E38000135","NHS Greater Manchester ICB - 00Y","older_60_plus",52088
+2024,"E38000135","NHS Greater Manchester ICB - 00Y","total",243993
+2024,"E38000135","NHS Greater Manchester ICB - 00Y","working_age_18_66",147038
+2024,"E38000136","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q","aged_16_59",420206
+2024,"E38000136","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q","children_0_15",128969
+2024,"E38000136","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q","older_60_plus",171582
+2024,"E38000136","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q","total",720757
+2024,"E38000136","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q","working_age_18_66",458542
+2024,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","aged_16_59",129308
+2024,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","children_0_15",37468
+2024,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","older_60_plus",42173
+2024,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","total",208949
+2024,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","working_age_18_66",139471
+2024,"E38000141","NHS South Yorkshire ICB - 03L","aged_16_59",147638
+2024,"E38000141","NHS South Yorkshire ICB - 03L","children_0_15",50793
+2024,"E38000141","NHS South Yorkshire ICB - 03L","older_60_plus",69836
+2024,"E38000141","NHS South Yorkshire ICB - 03L","total",268267
+2024,"E38000141","NHS South Yorkshire ICB - 03L","working_age_18_66",164140
+2024,"E38000143","NHS Greater Manchester ICB - 01G","aged_16_59",175341
+2024,"E38000143","NHS Greater Manchester ICB - 01G","children_0_15",54338
+2024,"E38000143","NHS Greater Manchester ICB - 01G","older_60_plus",49188
+2024,"E38000143","NHS Greater Manchester ICB - 01G","total",278867
+2024,"E38000143","NHS Greater Manchester ICB - 01G","working_age_18_66",186562
+2024,"E38000146","NHS South Yorkshire ICB - 03N","aged_16_59",336812
+2024,"E38000146","NHS South Yorkshire ICB - 03N","children_0_15",101182
+2024,"E38000146","NHS South Yorkshire ICB - 03N","older_60_plus",126708
+2024,"E38000146","NHS South Yorkshire ICB - 03N","total",564702
+2024,"E38000146","NHS South Yorkshire ICB - 03N","working_age_18_66",365659
+2024,"E38000150","NHS Somerset ICB - 11X","aged_16_59",294214
+2024,"E38000150","NHS Somerset ICB - 11X","children_0_15",97467
+2024,"E38000150","NHS Somerset ICB - 11X","older_60_plus",185410
+2024,"E38000150","NHS Somerset ICB - 11X","total",577091
+2024,"E38000150","NHS Somerset ICB - 11X","working_age_18_66",335997
+2024,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","aged_16_59",123613
+2024,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","children_0_15",39315
+2024,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","older_60_plus",68550
+2024,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","total",231478
+2024,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","working_age_18_66",139385
+2024,"E38000161","NHS Cheshire and Merseyside ICB - 01T","aged_16_59",88759
+2024,"E38000161","NHS Cheshire and Merseyside ICB - 01T","children_0_15",28942
+2024,"E38000161","NHS Cheshire and Merseyside ICB - 01T","older_60_plus",46033
+2024,"E38000161","NHS Cheshire and Merseyside ICB - 01T","total",163734
+2024,"E38000161","NHS Cheshire and Merseyside ICB - 01T","working_age_18_66",101392
+2024,"E38000163","NHS North East and North Cumbria ICB - 00N","aged_16_59",79805
+2024,"E38000163","NHS North East and North Cumbria ICB - 00N","children_0_15",26650
+2024,"E38000163","NHS North East and North Cumbria ICB - 00N","older_60_plus",42153
+2024,"E38000163","NHS North East and North Cumbria ICB - 00N","total",148608
+2024,"E38000163","NHS North East and North Cumbria ICB - 00N","working_age_18_66",91066
+2024,"E38000168","NHS Mid and South Essex ICB - 99G","aged_16_59",100803
+2024,"E38000168","NHS Mid and South Essex ICB - 99G","children_0_15",34238
+2024,"E38000168","NHS Mid and South Essex ICB - 99G","older_60_plus",45843
+2024,"E38000168","NHS Mid and South Essex ICB - 99G","total",180884
+2024,"E38000168","NHS Mid and South Essex ICB - 99G","working_age_18_66",111316
+2024,"E38000170","NHS Cheshire and Merseyside ICB - 01V","aged_16_59",58393
+2024,"E38000170","NHS Cheshire and Merseyside ICB - 01V","children_0_15",18462
+2024,"E38000170","NHS Cheshire and Merseyside ICB - 01V","older_60_plus",40450
+2024,"E38000170","NHS Cheshire and Merseyside ICB - 01V","total",117305
+2024,"E38000170","NHS Cheshire and Merseyside ICB - 01V","working_age_18_66",67588
+2024,"E38000172","NHS Cheshire and Merseyside ICB - 01X","aged_16_59",102009
+2024,"E38000172","NHS Cheshire and Merseyside ICB - 01X","children_0_15",32768
+2024,"E38000172","NHS Cheshire and Merseyside ICB - 01X","older_60_plus",49951
+2024,"E38000172","NHS Cheshire and Merseyside ICB - 01X","total",184728
+2024,"E38000172","NHS Cheshire and Merseyside ICB - 01X","working_age_18_66",113938
+2024,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","aged_16_59",83795
+2024,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","children_0_15",26704
+2024,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","older_60_plus",48712
+2024,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","total",159211
+2024,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","working_age_18_66",95113
+2024,"E38000174","NHS Greater Manchester ICB - 01W","aged_16_59",162192
+2024,"E38000174","NHS Greater Manchester ICB - 01W","children_0_15",56643
+2024,"E38000174","NHS Greater Manchester ICB - 01W","older_60_plus",78356
+2024,"E38000174","NHS Greater Manchester ICB - 01W","total",297191
+2024,"E38000174","NHS Greater Manchester ICB - 01W","working_age_18_66",179987
+2024,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","aged_16_59",151455
+2024,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","children_0_15",53826
+2024,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","older_60_plus",62777
+2024,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","total",268058
+2024,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","working_age_18_66",165827
+2024,"E38000176","NHS North East and North Cumbria ICB - 00P","aged_16_59",152258
+2024,"E38000176","NHS North East and North Cumbria ICB - 00P","children_0_15",48555
+2024,"E38000176","NHS North East and North Cumbria ICB - 00P","older_60_plus",76699
+2024,"E38000176","NHS North East and North Cumbria ICB - 00P","total",277512
+2024,"E38000176","NHS North East and North Cumbria ICB - 00P","working_age_18_66",172232
+2024,"E38000185","NHS Mid and South Essex ICB - 07G","aged_16_59",104018
+2024,"E38000185","NHS Mid and South Essex ICB - 07G","children_0_15",40014
+2024,"E38000185","NHS Mid and South Essex ICB - 07G","older_60_plus",32756
+2024,"E38000185","NHS Mid and South Essex ICB - 07G","total",176788
+2024,"E38000185","NHS Mid and South Essex ICB - 07G","working_age_18_66",110823
+2024,"E38000187","NHS Greater Manchester ICB - 02A","aged_16_59",131929
+2024,"E38000187","NHS Greater Manchester ICB - 02A","children_0_15",49529
+2024,"E38000187","NHS Greater Manchester ICB - 02A","older_60_plus",55193
+2024,"E38000187","NHS Greater Manchester ICB - 02A","total",236651
+2024,"E38000187","NHS Greater Manchester ICB - 02A","working_age_18_66",143883
+2024,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","aged_16_59",205916
+2024,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","children_0_15",57464
+2024,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","older_60_plus",100847
+2024,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","total",364227
+2024,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","working_age_18_66",229991
+2024,"E38000190","NHS West Yorkshire ICB - 03R","aged_16_59",199969
+2024,"E38000190","NHS West Yorkshire ICB - 03R","children_0_15",66729
+2024,"E38000190","NHS West Yorkshire ICB - 03R","older_60_plus",90280
+2024,"E38000190","NHS West Yorkshire ICB - 03R","total",356978
+2024,"E38000190","NHS West Yorkshire ICB - 03R","working_age_18_66",222132
+2024,"E38000194","NHS Cheshire and Merseyside ICB - 02E","aged_16_59",118422
+2024,"E38000194","NHS Cheshire and Merseyside ICB - 02E","children_0_15",38757
+2024,"E38000194","NHS Cheshire and Merseyside ICB - 02E","older_60_plus",54618
+2024,"E38000194","NHS Cheshire and Merseyside ICB - 02E","total",211797
+2024,"E38000194","NHS Cheshire and Merseyside ICB - 02E","working_age_18_66",131602
+2024,"E38000197","NHS Hertfordshire and West Essex ICB - 07H","aged_16_59",178857
+2024,"E38000197","NHS Hertfordshire and West Essex ICB - 07H","children_0_15",63716
+2024,"E38000197","NHS Hertfordshire and West Essex ICB - 07H","older_60_plus",79555
+2024,"E38000197","NHS Hertfordshire and West Essex ICB - 07H","total",322128
+2024,"E38000197","NHS Hertfordshire and West Essex ICB - 07H","working_age_18_66",197657
+2024,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","aged_16_59",65412
+2024,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","children_0_15",19480
+2024,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","older_60_plus",34468
+2024,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","total",119360
+2024,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","working_age_18_66",73674
+2024,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","aged_16_59",232347
+2024,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","children_0_15",71401
+2024,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","older_60_plus",109750
+2024,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","total",413498
+2024,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","working_age_18_66",258294
+2024,"E38000204","NHS Suffolk and North East Essex ICB - 07K","aged_16_59",128588
+2024,"E38000204","NHS Suffolk and North East Essex ICB - 07K","children_0_15",41408
+2024,"E38000204","NHS Suffolk and North East Essex ICB - 07K","older_60_plus",67574
+2024,"E38000204","NHS Suffolk and North East Essex ICB - 07K","total",237570
+2024,"E38000204","NHS Suffolk and North East Essex ICB - 07K","working_age_18_66",143532
+2024,"E38000205","NHS Greater Manchester ICB - 02H","aged_16_59",187134
+2024,"E38000205","NHS Greater Manchester ICB - 02H","children_0_15",61410
+2024,"E38000205","NHS Greater Manchester ICB - 02H","older_60_plus",85470
+2024,"E38000205","NHS Greater Manchester ICB - 02H","total",334014
+2024,"E38000205","NHS Greater Manchester ICB - 02H","working_age_18_66",207060
+2024,"E38000208","NHS Cheshire and Merseyside ICB - 12F","aged_16_59",170065
+2024,"E38000208","NHS Cheshire and Merseyside ICB - 12F","children_0_15",58110
+2024,"E38000208","NHS Cheshire and Merseyside ICB - 12F","older_60_plus",94264
+2024,"E38000208","NHS Cheshire and Merseyside ICB - 12F","total",322439
+2024,"E38000208","NHS Cheshire and Merseyside ICB - 12F","working_age_18_66",192768
+2024,"E38000212","NHS North East and North Cumbria ICB - 13T","aged_16_59",301915
+2024,"E38000212","NHS North East and North Cumbria ICB - 13T","children_0_15",87577
+2024,"E38000212","NHS North East and North Cumbria ICB - 13T","older_60_plus",114832
+2024,"E38000212","NHS North East and North Cumbria ICB - 13T","total",504324
+2024,"E38000212","NHS North East and North Cumbria ICB - 13T","working_age_18_66",330345
+2024,"E38000215","NHS North East and North Cumbria ICB - 01H","aged_16_59",168073
+2024,"E38000215","NHS North East and North Cumbria ICB - 01H","children_0_15",52379
+2024,"E38000215","NHS North East and North Cumbria ICB - 01H","older_60_plus",101957
+2024,"E38000215","NHS North East and North Cumbria ICB - 01H","total",322409
+2024,"E38000215","NHS North East and North Cumbria ICB - 01H","working_age_18_66",194510
+2024,"E38000217","NHS Greater Manchester ICB - 14L","aged_16_59",376164
+2024,"E38000217","NHS Greater Manchester ICB - 14L","children_0_15",114852
+2024,"E38000217","NHS Greater Manchester ICB - 14L","older_60_plus",75762
+2024,"E38000217","NHS Greater Manchester ICB - 14L","total",566778
+2024,"E38000217","NHS Greater Manchester ICB - 14L","working_age_18_66",392212
+2024,"E38000221","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A","aged_16_59",303952
+2024,"E38000221","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A","children_0_15",102230
+2024,"E38000221","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A","older_60_plus",113340
+2024,"E38000221","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A","total",519522
+2024,"E38000221","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A","working_age_18_66",329355
+2024,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","aged_16_59",597121
+2024,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","children_0_15",174796
+2024,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","older_60_plus",221191
+2024,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","total",993108
+2024,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","working_age_18_66",646269
+2024,"E38000223","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y","aged_16_59",310617
+2024,"E38000223","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y","children_0_15",112394
+2024,"E38000223","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y","older_60_plus",140771
+2024,"E38000223","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y","total",563782
+2024,"E38000223","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y","working_age_18_66",342029
+2024,"E38000225","NHS West Yorkshire ICB - 15F","aged_16_59",495979
+2024,"E38000225","NHS West Yorkshire ICB - 15F","children_0_15",154539
+2024,"E38000225","NHS West Yorkshire ICB - 15F","older_60_plus",170284
+2024,"E38000225","NHS West Yorkshire ICB - 15F","total",820802
+2024,"E38000225","NHS West Yorkshire ICB - 15F","working_age_18_66",534279
+2024,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","aged_16_59",97851
+2024,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","children_0_15",30651
+2024,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","older_60_plus",71809
+2024,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","total",200311
+2024,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","working_age_18_66",115077
+2024,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","aged_16_59",122146
+2024,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","children_0_15",39742
+2024,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","older_60_plus",50012
+2024,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","total",211900
+2024,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","working_age_18_66",134090
+2024,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","aged_16_59",178182
+2024,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","children_0_15",51367
+2024,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","older_60_plus",101775
+2024,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","total",331324
+2024,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","working_age_18_66",202625
+2024,"E38000230","NHS Devon ICB - 15N","aged_16_59",648184
+2024,"E38000230","NHS Devon ICB - 15N","children_0_15",197590
+2024,"E38000230","NHS Devon ICB - 15N","older_60_plus",386806
+2024,"E38000230","NHS Devon ICB - 15N","total",1232580
+2024,"E38000230","NHS Devon ICB - 15N","working_age_18_66",738238
+2024,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","aged_16_59",530570
+2024,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","children_0_15",171748
+2024,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","older_60_plus",252131
+2024,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","total",954449
+2024,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","working_age_18_66",589684
+2024,"E38000232","NHS West Yorkshire ICB - 36J","aged_16_59",339374
+2024,"E38000232","NHS West Yorkshire ICB - 36J","children_0_15",132448
+2024,"E38000232","NHS West Yorkshire ICB - 36J","older_60_plus",132841
+2024,"E38000232","NHS West Yorkshire ICB - 36J","total",604663
+2024,"E38000232","NHS West Yorkshire ICB - 36J","working_age_18_66",367630
+2024,"E38000233","NHS Cheshire and Merseyside ICB - 27D","aged_16_59",414979
+2024,"E38000233","NHS Cheshire and Merseyside ICB - 27D","children_0_15",133487
+2024,"E38000233","NHS Cheshire and Merseyside ICB - 27D","older_60_plus",219920
+2024,"E38000233","NHS Cheshire and Merseyside ICB - 27D","total",768386
+2024,"E38000233","NHS Cheshire and Merseyside ICB - 27D","working_age_18_66",466482
+2024,"E38000234","NHS North East and North Cumbria ICB - 84H","aged_16_59",289572
+2024,"E38000234","NHS North East and North Cumbria ICB - 84H","children_0_15",88049
+2024,"E38000234","NHS North East and North Cumbria ICB - 84H","older_60_plus",150083
+2024,"E38000234","NHS North East and North Cumbria ICB - 84H","total",527704
+2024,"E38000234","NHS North East and North Cumbria ICB - 84H","working_age_18_66",327757
+2024,"E38000235","NHS Sussex ICB - 97R","aged_16_59",276028
+2024,"E38000235","NHS Sussex ICB - 97R","children_0_15",90657
+2024,"E38000235","NHS Sussex ICB - 97R","older_60_plus",184322
+2024,"E38000235","NHS Sussex ICB - 97R","total",551007
+2024,"E38000235","NHS Sussex ICB - 97R","working_age_18_66",317144
+2024,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","aged_16_59",417911
+2024,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","children_0_15",135073
+2024,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","older_60_plus",245035
+2024,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","total",798019
+2024,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","working_age_18_66",473951
+2024,"E38000237","NHS Kent and Medway ICB - 91Q","aged_16_59",1028403
+2024,"E38000237","NHS Kent and Medway ICB - 91Q","children_0_15",362952
+2024,"E38000237","NHS Kent and Medway ICB - 91Q","older_60_plus",486062
+2024,"E38000237","NHS Kent and Medway ICB - 91Q","total",1877417
+2024,"E38000237","NHS Kent and Medway ICB - 91Q","working_age_18_66",1136342
+2024,"E38000238","NHS Lincolnshire ICB - 71E","aged_16_59",408272
+2024,"E38000238","NHS Lincolnshire ICB - 71E","children_0_15",129322
+2024,"E38000238","NHS Lincolnshire ICB - 71E","older_60_plus",238270
+2024,"E38000238","NHS Lincolnshire ICB - 71E","total",775864
+2024,"E38000238","NHS Lincolnshire ICB - 71E","working_age_18_66",465255
+2024,"E38000239","NHS Norfolk and Waveney ICB - 26A","aged_16_59",542138
+2024,"E38000239","NHS Norfolk and Waveney ICB - 26A","children_0_15",168892
+2024,"E38000239","NHS Norfolk and Waveney ICB - 26A","older_60_plus",331237
+2024,"E38000239","NHS Norfolk and Waveney ICB - 26A","total",1042267
+2024,"E38000239","NHS Norfolk and Waveney ICB - 26A","working_age_18_66",617742
+2024,"E38000240","NHS North Central London ICB - 93C","aged_16_59",904727
+2024,"E38000240","NHS North Central London ICB - 93C","children_0_15",265473
+2024,"E38000240","NHS North Central London ICB - 93C","older_60_plus",246944
+2024,"E38000240","NHS North Central London ICB - 93C","total",1417144
+2024,"E38000240","NHS North Central London ICB - 93C","working_age_18_66",962422
+2024,"E38000241","NHS Humber and North Yorkshire ICB - 42D","aged_16_59",219497
+2024,"E38000241","NHS Humber and North Yorkshire ICB - 42D","children_0_15",68429
+2024,"E38000241","NHS Humber and North Yorkshire ICB - 42D","older_60_plus",142599
+2024,"E38000241","NHS Humber and North Yorkshire ICB - 42D","total",430525
+2024,"E38000241","NHS Humber and North Yorkshire ICB - 42D","working_age_18_66",253535
+2024,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","aged_16_59",604313
+2024,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","children_0_15",186794
+2024,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","older_60_plus",251386
+2024,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","total",1042493
+2024,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","working_age_18_66",663358
+2024,"E38000244","NHS South East London ICB - 72Q","aged_16_59",1162909
+2024,"E38000244","NHS South East London ICB - 72Q","children_0_15",329247
+2024,"E38000244","NHS South East London ICB - 72Q","older_60_plus",304381
+2024,"E38000244","NHS South East London ICB - 72Q","total",1796537
+2024,"E38000244","NHS South East London ICB - 72Q","working_age_18_66",1239796
+2024,"E38000245","NHS South West London ICB - 36L","aged_16_59",940280
+2024,"E38000245","NHS South West London ICB - 36L","children_0_15",292676
+2024,"E38000245","NHS South West London ICB - 36L","older_60_plus",278673
+2024,"E38000245","NHS South West London ICB - 36L","total",1511629
+2024,"E38000245","NHS South West London ICB - 36L","working_age_18_66",1005472
+2024,"E38000247","NHS North East and North Cumbria ICB - 16C","aged_16_59",375000
+2024,"E38000247","NHS North East and North Cumbria ICB - 16C","children_0_15",131138
+2024,"E38000247","NHS North East and North Cumbria ICB - 16C","older_60_plus",182985
+2024,"E38000247","NHS North East and North Cumbria ICB - 16C","total",689123
+2024,"E38000247","NHS North East and North Cumbria ICB - 16C","working_age_18_66",420739
+2024,"E38000249","NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y","aged_16_59",591156
+2024,"E38000249","NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y","children_0_15",214769
+2024,"E38000249","NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y","older_60_plus",210455
+2024,"E38000249","NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y","total",1016380
+2024,"E38000249","NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y","working_age_18_66",639117
+2024,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","aged_16_59",551123
+2024,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","children_0_15",178872
+2024,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","older_60_plus",230607
+2024,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","total",960602
+2024,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","working_age_18_66",602574
+2024,"E38000252","NHS Frimley ICB - D4U1Y","aged_16_59",450180
+2024,"E38000252","NHS Frimley ICB - D4U1Y","children_0_15",156465
+2024,"E38000252","NHS Frimley ICB - D4U1Y","older_60_plus",167610
+2024,"E38000252","NHS Frimley ICB - D4U1Y","total",774255
+2024,"E38000252","NHS Frimley ICB - D4U1Y","working_age_18_66",486423
+2024,"E38000253","NHS Hampshire and Isle of Wight ICB - D9Y0V","aged_16_59",885886
+2024,"E38000253","NHS Hampshire and Isle of Wight ICB - D9Y0V","children_0_15",283787
+2024,"E38000253","NHS Hampshire and Isle of Wight ICB - D9Y0V","older_60_plus",463910
+2024,"E38000253","NHS Hampshire and Isle of Wight ICB - D9Y0V","total",1633583
+2024,"E38000253","NHS Hampshire and Isle of Wight ICB - D9Y0V","working_age_18_66",993298
+2024,"E38000254","NHS West Yorkshire ICB - X2C4Y","aged_16_59",247138
+2024,"E38000254","NHS West Yorkshire ICB - X2C4Y","children_0_15",87050
+2024,"E38000254","NHS West Yorkshire ICB - X2C4Y","older_60_plus",103606
+2024,"E38000254","NHS West Yorkshire ICB - X2C4Y","total",437794
+2024,"E38000254","NHS West Yorkshire ICB - X2C4Y","working_age_18_66",270140
+2024,"E38000255","NHS North East London ICB - A3A8R","aged_16_59",1323827
+2024,"E38000255","NHS North East London ICB - A3A8R","children_0_15",417508
+2024,"E38000255","NHS North East London ICB - A3A8R","older_60_plus",285296
+2024,"E38000255","NHS North East London ICB - A3A8R","total",2026631
+2024,"E38000255","NHS North East London ICB - A3A8R","working_age_18_66",1386378
+2024,"E38000256","NHS North West London ICB - W2U3Z","aged_16_59",1351347
+2024,"E38000256","NHS North West London ICB - W2U3Z","children_0_15",389487
+2024,"E38000256","NHS North West London ICB - W2U3Z","older_60_plus",376268
+2024,"E38000256","NHS North West London ICB - W2U3Z","total",2117102
+2024,"E38000256","NHS North West London ICB - W2U3Z","working_age_18_66",1443025
+2024,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","aged_16_59",273746
+2024,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","children_0_15",89480
+2024,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","older_60_plus",153253
+2024,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","total",516479
+2024,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","working_age_18_66",309457
+2024,"E38000258","NHS Birmingham and Solihull ICB - 15E","aged_16_59",809146
+2024,"E38000258","NHS Birmingham and Solihull ICB - 15E","children_0_15",297360
+2024,"E38000258","NHS Birmingham and Solihull ICB - 15E","older_60_plus",265499
+2024,"E38000258","NHS Birmingham and Solihull ICB - 15E","total",1372005
+2024,"E38000258","NHS Birmingham and Solihull ICB - 15E","working_age_18_66",861611
+2024,"E38000259","NHS Black Country ICB - D2P2L","aged_16_59",689209
+2024,"E38000259","NHS Black Country ICB - D2P2L","children_0_15",255789
+2024,"E38000259","NHS Black Country ICB - D2P2L","older_60_plus",278621
+2024,"E38000259","NHS Black Country ICB - D2P2L","total",1223619
+2024,"E38000259","NHS Black Country ICB - D2P2L","working_age_18_66",749017
+2024,"E38000260","NHS Cambridgeshire and Peterborough ICB - 06H","aged_16_59",536594
+2024,"E38000260","NHS Cambridgeshire and Peterborough ICB - 06H","children_0_15",174813
+2024,"E38000260","NHS Cambridgeshire and Peterborough ICB - 06H","older_60_plus",216853
+2024,"E38000260","NHS Cambridgeshire and Peterborough ICB - 06H","total",928260
+2024,"E38000260","NHS Cambridgeshire and Peterborough ICB - 06H","working_age_18_66",584878
+2024,"E38000261","NHS Derby and Derbyshire ICB - 15M","aged_16_59",585939
+2024,"E38000261","NHS Derby and Derbyshire ICB - 15M","children_0_15",188510
+2024,"E38000261","NHS Derby and Derbyshire ICB - 15M","older_60_plus",292626
+2024,"E38000261","NHS Derby and Derbyshire ICB - 15M","total",1067075
+2024,"E38000261","NHS Derby and Derbyshire ICB - 15M","working_age_18_66",656400
+2024,"E38000262","NHS Northamptonshire ICB - 78H","aged_16_59",451457
+2024,"E38000262","NHS Northamptonshire ICB - 78H","children_0_15",154310
+2024,"E38000262","NHS Northamptonshire ICB - 78H","older_60_plus",186988
+2024,"E38000262","NHS Northamptonshire ICB - 78H","total",792755
+2024,"E38000262","NHS Northamptonshire ICB - 78H","working_age_18_66",494154
+2024,"E38000263","NHS Greater Manchester ICB - 01Y","aged_16_59",131353
+2024,"E38000263","NHS Greater Manchester ICB - 01Y","children_0_15",46105
+2024,"E38000263","NHS Greater Manchester ICB - 01Y","older_60_plus",55348
+2024,"E38000263","NHS Greater Manchester ICB - 01Y","total",232806
+2024,"E38000263","NHS Greater Manchester ICB - 01Y","working_age_18_66",144940
+2024,"E38000264","NHS Surrey Heartlands ICB - 92A","aged_16_59",591418
+2024,"E38000264","NHS Surrey Heartlands ICB - 92A","children_0_15",205410
+2024,"E38000264","NHS Surrey Heartlands ICB - 92A","older_60_plus",263855
+2024,"E38000264","NHS Surrey Heartlands ICB - 92A","total",1060683
+2024,"E38000264","NHS Surrey Heartlands ICB - 92A","working_age_18_66",648910
+2024,"E38000265","NHS Sussex ICB - 70F","aged_16_59",471906
+2024,"E38000265","NHS Sussex ICB - 70F","children_0_15",157610
+2024,"E38000265","NHS Sussex ICB - 70F","older_60_plus",263291
+2024,"E38000265","NHS Sussex ICB - 70F","total",892807
+2024,"E38000265","NHS Sussex ICB - 70F","working_age_18_66",530232
+2025,"E38000006","NHS South Yorkshire ICB - 02P","aged_16_59",136496
+2025,"E38000006","NHS South Yorkshire ICB - 02P","children_0_15",45178
+2025,"E38000006","NHS South Yorkshire ICB - 02P","older_60_plus",64774
+2025,"E38000006","NHS South Yorkshire ICB - 02P","total",246448
+2025,"E38000006","NHS South Yorkshire ICB - 02P","working_age_18_66",152884
+2025,"E38000007","NHS Mid and South Essex ICB - 99E","aged_16_59",148767
+2025,"E38000007","NHS Mid and South Essex ICB - 99E","children_0_15",53839
+2025,"E38000007","NHS Mid and South Essex ICB - 99E","older_60_plus",63552
+2025,"E38000007","NHS Mid and South Essex ICB - 99E","total",266158
+2025,"E38000007","NHS Mid and South Essex ICB - 99E","working_age_18_66",163141
+2025,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","aged_16_59",64159
+2025,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","children_0_15",20870
+2025,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","older_60_plus",34956
+2025,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","total",119985
+2025,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","working_age_18_66",72656
+2025,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","aged_16_59",89520
+2025,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","children_0_15",35362
+2025,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","older_60_plus",30941
+2025,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","total",155823
+2025,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","working_age_18_66",95959
+2025,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","aged_16_59",77263
+2025,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","children_0_15",25015
+2025,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","older_60_plus",39370
+2025,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","total",141648
+2025,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","working_age_18_66",87400
+2025,"E38000016","NHS Greater Manchester ICB - 00T","aged_16_59",166607
+2025,"E38000016","NHS Greater Manchester ICB - 00T","children_0_15",64479
+2025,"E38000016","NHS Greater Manchester ICB - 00T","older_60_plus",68067
+2025,"E38000016","NHS Greater Manchester ICB - 00T","total",299153
+2025,"E38000016","NHS Greater Manchester ICB - 00T","working_age_18_66",181037
+2025,"E38000021","NHS Sussex ICB - 09D","aged_16_59",183243
+2025,"E38000021","NHS Sussex ICB - 09D","children_0_15",41371
+2025,"E38000021","NHS Sussex ICB - 09D","older_60_plus",53756
+2025,"E38000021","NHS Sussex ICB - 09D","total",278370
+2025,"E38000021","NHS Sussex ICB - 09D","working_age_18_66",196302
+2025,"E38000024","NHS Greater Manchester ICB - 00V","aged_16_59",108297
+2025,"E38000024","NHS Greater Manchester ICB - 00V","children_0_15",38881
+2025,"E38000024","NHS Greater Manchester ICB - 00V","older_60_plus",47412
+2025,"E38000024","NHS Greater Manchester ICB - 00V","total",194590
+2025,"E38000024","NHS Greater Manchester ICB - 00V","working_age_18_66",118866
+2025,"E38000025","NHS West Yorkshire ICB - 02T","aged_16_59",114475
+2025,"E38000025","NHS West Yorkshire ICB - 02T","children_0_15",39812
+2025,"E38000025","NHS West Yorkshire ICB - 02T","older_60_plus",53373
+2025,"E38000025","NHS West Yorkshire ICB - 02T","total",207660
+2025,"E38000025","NHS West Yorkshire ICB - 02T","working_age_18_66",127353
+2025,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","aged_16_59",76279
+2025,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","children_0_15",24419
+2025,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","older_60_plus",37026
+2025,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","total",137724
+2025,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","working_age_18_66",85344
+2025,"E38000030","NHS Mid and South Essex ICB - 99F","aged_16_59",91574
+2025,"E38000030","NHS Mid and South Essex ICB - 99F","children_0_15",30612
+2025,"E38000030","NHS Mid and South Essex ICB - 99F","older_60_plus",54752
+2025,"E38000030","NHS Mid and South Essex ICB - 99F","total",176938
+2025,"E38000030","NHS Mid and South Essex ICB - 99F","working_age_18_66",103332
+2025,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","aged_16_59",99688
+2025,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","children_0_15",32502
+2025,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","older_60_plus",48296
+2025,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","total",180486
+2025,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","working_age_18_66",111091
+2025,"E38000044","NHS South Yorkshire ICB - 02X","aged_16_59",171952
+2025,"E38000044","NHS South Yorkshire ICB - 02X","children_0_15",57944
+2025,"E38000044","NHS South Yorkshire ICB - 02X","older_60_plus",81068
+2025,"E38000044","NHS South Yorkshire ICB - 02X","total",310964
+2025,"E38000044","NHS South Yorkshire ICB - 02X","working_age_18_66",192258
+2025,"E38000045","NHS Dorset ICB - 11J","aged_16_59",405567
+2025,"E38000045","NHS Dorset ICB - 11J","children_0_15",123586
+2025,"E38000045","NHS Dorset ICB - 11J","older_60_plus",256779
+2025,"E38000045","NHS Dorset ICB - 11J","total",785932
+2025,"E38000045","NHS Dorset ICB - 11J","working_age_18_66",463283
+2025,"E38000049","NHS Hertfordshire and West Essex ICB - 06K","aged_16_59",328489
+2025,"E38000049","NHS Hertfordshire and West Essex ICB - 06K","children_0_15",111460
+2025,"E38000049","NHS Hertfordshire and West Essex ICB - 06K","older_60_plus",134419
+2025,"E38000049","NHS Hertfordshire and West Essex ICB - 06K","total",574368
+2025,"E38000049","NHS Hertfordshire and West Essex ICB - 06K","working_age_18_66",359684
+2025,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","aged_16_59",217117
+2025,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","children_0_15",78778
+2025,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","older_60_plus",101409
+2025,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","total",397304
+2025,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","working_age_18_66",240515
+2025,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","aged_16_59",187154
+2025,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","children_0_15",62312
+2025,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","older_60_plus",101201
+2025,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","total",350667
+2025,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","working_age_18_66",209773
+2025,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","aged_16_59",160555
+2025,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","children_0_15",50474
+2025,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","older_60_plus",110734
+2025,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","total",321763
+2025,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","working_age_18_66",187062
+2025,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","aged_16_59",75739
+2025,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","children_0_15",25790
+2025,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","older_60_plus",35044
+2025,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","total",136573
+2025,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","working_age_18_66",84226
+2025,"E38000062","NHS Gloucestershire ICB - 11M","aged_16_59",351899
+2025,"E38000062","NHS Gloucestershire ICB - 11M","children_0_15",114379
+2025,"E38000062","NHS Gloucestershire ICB - 11M","older_60_plus",186388
+2025,"E38000062","NHS Gloucestershire ICB - 11M","total",652666
+2025,"E38000062","NHS Gloucestershire ICB - 11M","working_age_18_66",395790
+2025,"E38000068","NHS Cheshire and Merseyside ICB - 01F","aged_16_59",71661
+2025,"E38000068","NHS Cheshire and Merseyside ICB - 01F","children_0_15",24353
+2025,"E38000068","NHS Cheshire and Merseyside ICB - 01F","older_60_plus",32994
+2025,"E38000068","NHS Cheshire and Merseyside ICB - 01F","total",129008
+2025,"E38000068","NHS Cheshire and Merseyside ICB - 01F","working_age_18_66",79979
+2025,"E38000079","NHS Hertfordshire and West Essex ICB - 06N","aged_16_59",346619
+2025,"E38000079","NHS Hertfordshire and West Essex ICB - 06N","children_0_15",125771
+2025,"E38000079","NHS Hertfordshire and West Essex ICB - 06N","older_60_plus",137834
+2025,"E38000079","NHS Hertfordshire and West Essex ICB - 06N","total",610224
+2025,"E38000079","NHS Hertfordshire and West Essex ICB - 06N","working_age_18_66",376867
+2025,"E38000080","NHS Greater Manchester ICB - 01D","aged_16_59",127084
+2025,"E38000080","NHS Greater Manchester ICB - 01D","children_0_15",49481
+2025,"E38000080","NHS Greater Manchester ICB - 01D","older_60_plus",50385
+2025,"E38000080","NHS Greater Manchester ICB - 01D","total",226950
+2025,"E38000080","NHS Greater Manchester ICB - 01D","working_age_18_66",138420
+2025,"E38000085","NHS Humber and North Yorkshire ICB - 03F","aged_16_59",158149
+2025,"E38000085","NHS Humber and North Yorkshire ICB - 03F","children_0_15",53493
+2025,"E38000085","NHS Humber and North Yorkshire ICB - 03F","older_60_plus",57035
+2025,"E38000085","NHS Humber and North Yorkshire ICB - 03F","total",268677
+2025,"E38000085","NHS Humber and North Yorkshire ICB - 03F","working_age_18_66",172393
+2025,"E38000086","NHS Suffolk and North East Essex ICB - 06L","aged_16_59",217499
+2025,"E38000086","NHS Suffolk and North East Essex ICB - 06L","children_0_15",71071
+2025,"E38000086","NHS Suffolk and North East Essex ICB - 06L","older_60_plus",126007
+2025,"E38000086","NHS Suffolk and North East Essex ICB - 06L","total",414577
+2025,"E38000086","NHS Suffolk and North East Essex ICB - 06L","working_age_18_66",246036
+2025,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","aged_16_59",294582
+2025,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","children_0_15",93718
+2025,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","older_60_plus",189513
+2025,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","total",577813
+2025,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","working_age_18_66",340095
+2025,"E38000091","NHS Cheshire and Merseyside ICB - 01J","aged_16_59",88429
+2025,"E38000091","NHS Cheshire and Merseyside ICB - 01J","children_0_15",31016
+2025,"E38000091","NHS Cheshire and Merseyside ICB - 01J","older_60_plus",37662
+2025,"E38000091","NHS Cheshire and Merseyside ICB - 01J","total",157107
+2025,"E38000091","NHS Cheshire and Merseyside ICB - 01J","working_age_18_66",99179
+2025,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","aged_16_59",232339
+2025,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","children_0_15",77855
+2025,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","older_60_plus",62301
+2025,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","total",372495
+2025,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","working_age_18_66",245965
+2025,"E38000101","NHS Cheshire and Merseyside ICB - 99A","aged_16_59",307108
+2025,"E38000101","NHS Cheshire and Merseyside ICB - 99A","children_0_15",84519
+2025,"E38000101","NHS Cheshire and Merseyside ICB - 99A","older_60_plus",104222
+2025,"E38000101","NHS Cheshire and Merseyside ICB - 99A","total",495849
+2025,"E38000101","NHS Cheshire and Merseyside ICB - 99A","working_age_18_66",335441
+2025,"E38000106","NHS Mid and South Essex ICB - 06Q","aged_16_59",223655
+2025,"E38000106","NHS Mid and South Essex ICB - 06Q","children_0_15",74435
+2025,"E38000106","NHS Mid and South Essex ICB - 06Q","older_60_plus",110497
+2025,"E38000106","NHS Mid and South Essex ICB - 06Q","total",408587
+2025,"E38000106","NHS Mid and South Essex ICB - 06Q","working_age_18_66",248380
+2025,"E38000117","NHS Suffolk and North East Essex ICB - 06T","aged_16_59",183791
+2025,"E38000117","NHS Suffolk and North East Essex ICB - 06T","children_0_15",60720
+2025,"E38000117","NHS Suffolk and North East Essex ICB - 06T","older_60_plus",101537
+2025,"E38000117","NHS Suffolk and North East Essex ICB - 06T","total",346048
+2025,"E38000117","NHS Suffolk and North East Essex ICB - 06T","working_age_18_66",206146
+2025,"E38000119","NHS Humber and North Yorkshire ICB - 03H","aged_16_59",84165
+2025,"E38000119","NHS Humber and North Yorkshire ICB - 03H","children_0_15",29325
+2025,"E38000119","NHS Humber and North Yorkshire ICB - 03H","older_60_plus",44255
+2025,"E38000119","NHS Humber and North Yorkshire ICB - 03H","total",157745
+2025,"E38000119","NHS Humber and North Yorkshire ICB - 03H","working_age_18_66",94930
+2025,"E38000122","NHS Humber and North Yorkshire ICB - 03K","aged_16_59",89867
+2025,"E38000122","NHS Humber and North Yorkshire ICB - 03K","children_0_15",30339
+2025,"E38000122","NHS Humber and North Yorkshire ICB - 03K","older_60_plus",49879
+2025,"E38000122","NHS Humber and North Yorkshire ICB - 03K","total",170085
+2025,"E38000122","NHS Humber and North Yorkshire ICB - 03K","working_age_18_66",101912
+2025,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","aged_16_59",114355
+2025,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","children_0_15",34047
+2025,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","older_60_plus",64856
+2025,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","total",213258
+2025,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","working_age_18_66",129708
+2025,"E38000127","NHS North East and North Cumbria ICB - 99C","aged_16_59",115328
+2025,"E38000127","NHS North East and North Cumbria ICB - 99C","children_0_15",37313
+2025,"E38000127","NHS North East and North Cumbria ICB - 99C","older_60_plus",57871
+2025,"E38000127","NHS North East and North Cumbria ICB - 99C","total",210512
+2025,"E38000127","NHS North East and North Cumbria ICB - 99C","working_age_18_66",129620
+2025,"E38000130","NHS North East and North Cumbria ICB - 00L","aged_16_59",162901
+2025,"E38000130","NHS North East and North Cumbria ICB - 00L","children_0_15",51686
+2025,"E38000130","NHS North East and North Cumbria ICB - 00L","older_60_plus",109699
+2025,"E38000130","NHS North East and North Cumbria ICB - 00L","total",324286
+2025,"E38000130","NHS North East and North Cumbria ICB - 00L","working_age_18_66",191179
+2025,"E38000135","NHS Greater Manchester ICB - 00Y","aged_16_59",136664
+2025,"E38000135","NHS Greater Manchester ICB - 00Y","children_0_15",55241
+2025,"E38000135","NHS Greater Manchester ICB - 00Y","older_60_plus",52088
+2025,"E38000135","NHS Greater Manchester ICB - 00Y","total",243993
+2025,"E38000135","NHS Greater Manchester ICB - 00Y","working_age_18_66",147038
+2025,"E38000136","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q","aged_16_59",420206
+2025,"E38000136","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q","children_0_15",128969
+2025,"E38000136","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q","older_60_plus",171582
+2025,"E38000136","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q","total",720757
+2025,"E38000136","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q","working_age_18_66",458542
+2025,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","aged_16_59",129308
+2025,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","children_0_15",37468
+2025,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","older_60_plus",42173
+2025,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","total",208949
+2025,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","working_age_18_66",139471
+2025,"E38000141","NHS South Yorkshire ICB - 03L","aged_16_59",147638
+2025,"E38000141","NHS South Yorkshire ICB - 03L","children_0_15",50793
+2025,"E38000141","NHS South Yorkshire ICB - 03L","older_60_plus",69836
+2025,"E38000141","NHS South Yorkshire ICB - 03L","total",268267
+2025,"E38000141","NHS South Yorkshire ICB - 03L","working_age_18_66",164140
+2025,"E38000143","NHS Greater Manchester ICB - 01G","aged_16_59",175341
+2025,"E38000143","NHS Greater Manchester ICB - 01G","children_0_15",54338
+2025,"E38000143","NHS Greater Manchester ICB - 01G","older_60_plus",49188
+2025,"E38000143","NHS Greater Manchester ICB - 01G","total",278867
+2025,"E38000143","NHS Greater Manchester ICB - 01G","working_age_18_66",186562
+2025,"E38000146","NHS South Yorkshire ICB - 03N","aged_16_59",336812
+2025,"E38000146","NHS South Yorkshire ICB - 03N","children_0_15",101182
+2025,"E38000146","NHS South Yorkshire ICB - 03N","older_60_plus",126708
+2025,"E38000146","NHS South Yorkshire ICB - 03N","total",564702
+2025,"E38000146","NHS South Yorkshire ICB - 03N","working_age_18_66",365659
+2025,"E38000150","NHS Somerset ICB - 11X","aged_16_59",294214
+2025,"E38000150","NHS Somerset ICB - 11X","children_0_15",97467
+2025,"E38000150","NHS Somerset ICB - 11X","older_60_plus",185410
+2025,"E38000150","NHS Somerset ICB - 11X","total",577091
+2025,"E38000150","NHS Somerset ICB - 11X","working_age_18_66",335997
+2025,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","aged_16_59",123613
+2025,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","children_0_15",39315
+2025,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","older_60_plus",68550
+2025,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","total",231478
+2025,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","working_age_18_66",139385
+2025,"E38000161","NHS Cheshire and Merseyside ICB - 01T","aged_16_59",88759
+2025,"E38000161","NHS Cheshire and Merseyside ICB - 01T","children_0_15",28942
+2025,"E38000161","NHS Cheshire and Merseyside ICB - 01T","older_60_plus",46033
+2025,"E38000161","NHS Cheshire and Merseyside ICB - 01T","total",163734
+2025,"E38000161","NHS Cheshire and Merseyside ICB - 01T","working_age_18_66",101392
+2025,"E38000163","NHS North East and North Cumbria ICB - 00N","aged_16_59",79805
+2025,"E38000163","NHS North East and North Cumbria ICB - 00N","children_0_15",26650
+2025,"E38000163","NHS North East and North Cumbria ICB - 00N","older_60_plus",42153
+2025,"E38000163","NHS North East and North Cumbria ICB - 00N","total",148608
+2025,"E38000163","NHS North East and North Cumbria ICB - 00N","working_age_18_66",91066
+2025,"E38000168","NHS Mid and South Essex ICB - 99G","aged_16_59",100803
+2025,"E38000168","NHS Mid and South Essex ICB - 99G","children_0_15",34238
+2025,"E38000168","NHS Mid and South Essex ICB - 99G","older_60_plus",45843
+2025,"E38000168","NHS Mid and South Essex ICB - 99G","total",180884
+2025,"E38000168","NHS Mid and South Essex ICB - 99G","working_age_18_66",111316
+2025,"E38000170","NHS Cheshire and Merseyside ICB - 01V","aged_16_59",58393
+2025,"E38000170","NHS Cheshire and Merseyside ICB - 01V","children_0_15",18462
+2025,"E38000170","NHS Cheshire and Merseyside ICB - 01V","older_60_plus",40450
+2025,"E38000170","NHS Cheshire and Merseyside ICB - 01V","total",117305
+2025,"E38000170","NHS Cheshire and Merseyside ICB - 01V","working_age_18_66",67588
+2025,"E38000172","NHS Cheshire and Merseyside ICB - 01X","aged_16_59",102009
+2025,"E38000172","NHS Cheshire and Merseyside ICB - 01X","children_0_15",32768
+2025,"E38000172","NHS Cheshire and Merseyside ICB - 01X","older_60_plus",49951
+2025,"E38000172","NHS Cheshire and Merseyside ICB - 01X","total",184728
+2025,"E38000172","NHS Cheshire and Merseyside ICB - 01X","working_age_18_66",113938
+2025,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","aged_16_59",83795
+2025,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","children_0_15",26704
+2025,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","older_60_plus",48712
+2025,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","total",159211
+2025,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","working_age_18_66",95113
+2025,"E38000174","NHS Greater Manchester ICB - 01W","aged_16_59",162192
+2025,"E38000174","NHS Greater Manchester ICB - 01W","children_0_15",56643
+2025,"E38000174","NHS Greater Manchester ICB - 01W","older_60_plus",78356
+2025,"E38000174","NHS Greater Manchester ICB - 01W","total",297191
+2025,"E38000174","NHS Greater Manchester ICB - 01W","working_age_18_66",179987
+2025,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","aged_16_59",151455
+2025,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","children_0_15",53826
+2025,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","older_60_plus",62777
+2025,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","total",268058
+2025,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","working_age_18_66",165827
+2025,"E38000176","NHS North East and North Cumbria ICB - 00P","aged_16_59",152258
+2025,"E38000176","NHS North East and North Cumbria ICB - 00P","children_0_15",48555
+2025,"E38000176","NHS North East and North Cumbria ICB - 00P","older_60_plus",76699
+2025,"E38000176","NHS North East and North Cumbria ICB - 00P","total",277512
+2025,"E38000176","NHS North East and North Cumbria ICB - 00P","working_age_18_66",172232
+2025,"E38000185","NHS Mid and South Essex ICB - 07G","aged_16_59",104018
+2025,"E38000185","NHS Mid and South Essex ICB - 07G","children_0_15",40014
+2025,"E38000185","NHS Mid and South Essex ICB - 07G","older_60_plus",32756
+2025,"E38000185","NHS Mid and South Essex ICB - 07G","total",176788
+2025,"E38000185","NHS Mid and South Essex ICB - 07G","working_age_18_66",110823
+2025,"E38000187","NHS Greater Manchester ICB - 02A","aged_16_59",131929
+2025,"E38000187","NHS Greater Manchester ICB - 02A","children_0_15",49529
+2025,"E38000187","NHS Greater Manchester ICB - 02A","older_60_plus",55193
+2025,"E38000187","NHS Greater Manchester ICB - 02A","total",236651
+2025,"E38000187","NHS Greater Manchester ICB - 02A","working_age_18_66",143883
+2025,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","aged_16_59",205916
+2025,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","children_0_15",57464
+2025,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","older_60_plus",100847
+2025,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","total",364227
+2025,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","working_age_18_66",229991
+2025,"E38000190","NHS West Yorkshire ICB - 03R","aged_16_59",199969
+2025,"E38000190","NHS West Yorkshire ICB - 03R","children_0_15",66729
+2025,"E38000190","NHS West Yorkshire ICB - 03R","older_60_plus",90280
+2025,"E38000190","NHS West Yorkshire ICB - 03R","total",356978
+2025,"E38000190","NHS West Yorkshire ICB - 03R","working_age_18_66",222132
+2025,"E38000194","NHS Cheshire and Merseyside ICB - 02E","aged_16_59",118422
+2025,"E38000194","NHS Cheshire and Merseyside ICB - 02E","children_0_15",38757
+2025,"E38000194","NHS Cheshire and Merseyside ICB - 02E","older_60_plus",54618
+2025,"E38000194","NHS Cheshire and Merseyside ICB - 02E","total",211797
+2025,"E38000194","NHS Cheshire and Merseyside ICB - 02E","working_age_18_66",131602
+2025,"E38000197","NHS Hertfordshire and West Essex ICB - 07H","aged_16_59",178857
+2025,"E38000197","NHS Hertfordshire and West Essex ICB - 07H","children_0_15",63716
+2025,"E38000197","NHS Hertfordshire and West Essex ICB - 07H","older_60_plus",79555
+2025,"E38000197","NHS Hertfordshire and West Essex ICB - 07H","total",322128
+2025,"E38000197","NHS Hertfordshire and West Essex ICB - 07H","working_age_18_66",197657
+2025,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","aged_16_59",65412
+2025,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","children_0_15",19480
+2025,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","older_60_plus",34468
+2025,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","total",119360
+2025,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","working_age_18_66",73674
+2025,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","aged_16_59",232347
+2025,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","children_0_15",71401
+2025,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","older_60_plus",109750
+2025,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","total",413498
+2025,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","working_age_18_66",258294
+2025,"E38000204","NHS Suffolk and North East Essex ICB - 07K","aged_16_59",128588
+2025,"E38000204","NHS Suffolk and North East Essex ICB - 07K","children_0_15",41408
+2025,"E38000204","NHS Suffolk and North East Essex ICB - 07K","older_60_plus",67574
+2025,"E38000204","NHS Suffolk and North East Essex ICB - 07K","total",237570
+2025,"E38000204","NHS Suffolk and North East Essex ICB - 07K","working_age_18_66",143532
+2025,"E38000205","NHS Greater Manchester ICB - 02H","aged_16_59",187134
+2025,"E38000205","NHS Greater Manchester ICB - 02H","children_0_15",61410
+2025,"E38000205","NHS Greater Manchester ICB - 02H","older_60_plus",85470
+2025,"E38000205","NHS Greater Manchester ICB - 02H","total",334014
+2025,"E38000205","NHS Greater Manchester ICB - 02H","working_age_18_66",207060
+2025,"E38000208","NHS Cheshire and Merseyside ICB - 12F","aged_16_59",170065
+2025,"E38000208","NHS Cheshire and Merseyside ICB - 12F","children_0_15",58110
+2025,"E38000208","NHS Cheshire and Merseyside ICB - 12F","older_60_plus",94264
+2025,"E38000208","NHS Cheshire and Merseyside ICB - 12F","total",322439
+2025,"E38000208","NHS Cheshire and Merseyside ICB - 12F","working_age_18_66",192768
+2025,"E38000212","NHS North East and North Cumbria ICB - 13T","aged_16_59",301915
+2025,"E38000212","NHS North East and North Cumbria ICB - 13T","children_0_15",87577
+2025,"E38000212","NHS North East and North Cumbria ICB - 13T","older_60_plus",114832
+2025,"E38000212","NHS North East and North Cumbria ICB - 13T","total",504324
+2025,"E38000212","NHS North East and North Cumbria ICB - 13T","working_age_18_66",330345
+2025,"E38000215","NHS North East and North Cumbria ICB - 01H","aged_16_59",168073
+2025,"E38000215","NHS North East and North Cumbria ICB - 01H","children_0_15",52379
+2025,"E38000215","NHS North East and North Cumbria ICB - 01H","older_60_plus",101957
+2025,"E38000215","NHS North East and North Cumbria ICB - 01H","total",322409
+2025,"E38000215","NHS North East and North Cumbria ICB - 01H","working_age_18_66",194510
+2025,"E38000217","NHS Greater Manchester ICB - 14L","aged_16_59",376164
+2025,"E38000217","NHS Greater Manchester ICB - 14L","children_0_15",114852
+2025,"E38000217","NHS Greater Manchester ICB - 14L","older_60_plus",75762
+2025,"E38000217","NHS Greater Manchester ICB - 14L","total",566778
+2025,"E38000217","NHS Greater Manchester ICB - 14L","working_age_18_66",392212
+2025,"E38000221","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A","aged_16_59",303952
+2025,"E38000221","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A","children_0_15",102230
+2025,"E38000221","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A","older_60_plus",113340
+2025,"E38000221","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A","total",519522
+2025,"E38000221","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A","working_age_18_66",329355
+2025,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","aged_16_59",597121
+2025,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","children_0_15",174796
+2025,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","older_60_plus",221191
+2025,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","total",993108
+2025,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","working_age_18_66",646269
+2025,"E38000223","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y","aged_16_59",310617
+2025,"E38000223","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y","children_0_15",112394
+2025,"E38000223","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y","older_60_plus",140771
+2025,"E38000223","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y","total",563782
+2025,"E38000223","NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y","working_age_18_66",342029
+2025,"E38000225","NHS West Yorkshire ICB - 15F","aged_16_59",495979
+2025,"E38000225","NHS West Yorkshire ICB - 15F","children_0_15",154539
+2025,"E38000225","NHS West Yorkshire ICB - 15F","older_60_plus",170284
+2025,"E38000225","NHS West Yorkshire ICB - 15F","total",820802
+2025,"E38000225","NHS West Yorkshire ICB - 15F","working_age_18_66",534279
+2025,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","aged_16_59",97851
+2025,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","children_0_15",30651
+2025,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","older_60_plus",71809
+2025,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","total",200311
+2025,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","working_age_18_66",115077
+2025,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","aged_16_59",122146
+2025,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","children_0_15",39742
+2025,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","older_60_plus",50012
+2025,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","total",211900
+2025,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","working_age_18_66",134090
+2025,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","aged_16_59",178182
+2025,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","children_0_15",51367
+2025,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","older_60_plus",101775
+2025,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","total",331324
+2025,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","working_age_18_66",202625
+2025,"E38000230","NHS Devon ICB - 15N","aged_16_59",648184
+2025,"E38000230","NHS Devon ICB - 15N","children_0_15",197590
+2025,"E38000230","NHS Devon ICB - 15N","older_60_plus",386806
+2025,"E38000230","NHS Devon ICB - 15N","total",1232580
+2025,"E38000230","NHS Devon ICB - 15N","working_age_18_66",738238
+2025,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","aged_16_59",530570
+2025,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","children_0_15",171748
+2025,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","older_60_plus",252131
+2025,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","total",954449
+2025,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","working_age_18_66",589684
+2025,"E38000232","NHS West Yorkshire ICB - 36J","aged_16_59",339374
+2025,"E38000232","NHS West Yorkshire ICB - 36J","children_0_15",132448
+2025,"E38000232","NHS West Yorkshire ICB - 36J","older_60_plus",132841
+2025,"E38000232","NHS West Yorkshire ICB - 36J","total",604663
+2025,"E38000232","NHS West Yorkshire ICB - 36J","working_age_18_66",367630
+2025,"E38000233","NHS Cheshire and Merseyside ICB - 27D","aged_16_59",414979
+2025,"E38000233","NHS Cheshire and Merseyside ICB - 27D","children_0_15",133487
+2025,"E38000233","NHS Cheshire and Merseyside ICB - 27D","older_60_plus",219920
+2025,"E38000233","NHS Cheshire and Merseyside ICB - 27D","total",768386
+2025,"E38000233","NHS Cheshire and Merseyside ICB - 27D","working_age_18_66",466482
+2025,"E38000234","NHS North East and North Cumbria ICB - 84H","aged_16_59",289572
+2025,"E38000234","NHS North East and North Cumbria ICB - 84H","children_0_15",88049
+2025,"E38000234","NHS North East and North Cumbria ICB - 84H","older_60_plus",150083
+2025,"E38000234","NHS North East and North Cumbria ICB - 84H","total",527704
+2025,"E38000234","NHS North East and North Cumbria ICB - 84H","working_age_18_66",327757
+2025,"E38000235","NHS Sussex ICB - 97R","aged_16_59",276028
+2025,"E38000235","NHS Sussex ICB - 97R","children_0_15",90657
+2025,"E38000235","NHS Sussex ICB - 97R","older_60_plus",184322
+2025,"E38000235","NHS Sussex ICB - 97R","total",551007
+2025,"E38000235","NHS Sussex ICB - 97R","working_age_18_66",317144
+2025,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","aged_16_59",417911
+2025,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","children_0_15",135073
+2025,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","older_60_plus",245035
+2025,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","total",798019
+2025,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","working_age_18_66",473951
+2025,"E38000237","NHS Kent and Medway ICB - 91Q","aged_16_59",1028403
+2025,"E38000237","NHS Kent and Medway ICB - 91Q","children_0_15",362952
+2025,"E38000237","NHS Kent and Medway ICB - 91Q","older_60_plus",486062
+2025,"E38000237","NHS Kent and Medway ICB - 91Q","total",1877417
+2025,"E38000237","NHS Kent and Medway ICB - 91Q","working_age_18_66",1136342
+2025,"E38000238","NHS Lincolnshire ICB - 71E","aged_16_59",408272
+2025,"E38000238","NHS Lincolnshire ICB - 71E","children_0_15",129322
+2025,"E38000238","NHS Lincolnshire ICB - 71E","older_60_plus",238270
+2025,"E38000238","NHS Lincolnshire ICB - 71E","total",775864
+2025,"E38000238","NHS Lincolnshire ICB - 71E","working_age_18_66",465255
+2025,"E38000239","NHS Norfolk and Waveney ICB - 26A","aged_16_59",542138
+2025,"E38000239","NHS Norfolk and Waveney ICB - 26A","children_0_15",168892
+2025,"E38000239","NHS Norfolk and Waveney ICB - 26A","older_60_plus",331237
+2025,"E38000239","NHS Norfolk and Waveney ICB - 26A","total",1042267
+2025,"E38000239","NHS Norfolk and Waveney ICB - 26A","working_age_18_66",617742
+2025,"E38000240","NHS North Central London ICB - 93C","aged_16_59",904727
+2025,"E38000240","NHS North Central London ICB - 93C","children_0_15",265473
+2025,"E38000240","NHS North Central London ICB - 93C","older_60_plus",246944
+2025,"E38000240","NHS North Central London ICB - 93C","total",1417144
+2025,"E38000240","NHS North Central London ICB - 93C","working_age_18_66",962422
+2025,"E38000241","NHS Humber and North Yorkshire ICB - 42D","aged_16_59",219497
+2025,"E38000241","NHS Humber and North Yorkshire ICB - 42D","children_0_15",68429
+2025,"E38000241","NHS Humber and North Yorkshire ICB - 42D","older_60_plus",142599
+2025,"E38000241","NHS Humber and North Yorkshire ICB - 42D","total",430525
+2025,"E38000241","NHS Humber and North Yorkshire ICB - 42D","working_age_18_66",253535
+2025,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","aged_16_59",604313
+2025,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","children_0_15",186794
+2025,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","older_60_plus",251386
+2025,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","total",1042493
+2025,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","working_age_18_66",663358
+2025,"E38000244","NHS South East London ICB - 72Q","aged_16_59",1162909
+2025,"E38000244","NHS South East London ICB - 72Q","children_0_15",329247
+2025,"E38000244","NHS South East London ICB - 72Q","older_60_plus",304381
+2025,"E38000244","NHS South East London ICB - 72Q","total",1796537
+2025,"E38000244","NHS South East London ICB - 72Q","working_age_18_66",1239796
+2025,"E38000245","NHS South West London ICB - 36L","aged_16_59",940280
+2025,"E38000245","NHS South West London ICB - 36L","children_0_15",292676
+2025,"E38000245","NHS South West London ICB - 36L","older_60_plus",278673
+2025,"E38000245","NHS South West London ICB - 36L","total",1511629
+2025,"E38000245","NHS South West London ICB - 36L","working_age_18_66",1005472
+2025,"E38000247","NHS North East and North Cumbria ICB - 16C","aged_16_59",375000
+2025,"E38000247","NHS North East and North Cumbria ICB - 16C","children_0_15",131138
+2025,"E38000247","NHS North East and North Cumbria ICB - 16C","older_60_plus",182985
+2025,"E38000247","NHS North East and North Cumbria ICB - 16C","total",689123
+2025,"E38000247","NHS North East and North Cumbria ICB - 16C","working_age_18_66",420739
+2025,"E38000249","NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y","aged_16_59",591156
+2025,"E38000249","NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y","children_0_15",214769
+2025,"E38000249","NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y","older_60_plus",210455
+2025,"E38000249","NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y","total",1016380
+2025,"E38000249","NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y","working_age_18_66",639117
+2025,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","aged_16_59",551123
+2025,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","children_0_15",178872
+2025,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","older_60_plus",230607
+2025,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","total",960602
+2025,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","working_age_18_66",602574
+2025,"E38000252","NHS Frimley ICB - D4U1Y","aged_16_59",450180
+2025,"E38000252","NHS Frimley ICB - D4U1Y","children_0_15",156465
+2025,"E38000252","NHS Frimley ICB - D4U1Y","older_60_plus",167610
+2025,"E38000252","NHS Frimley ICB - D4U1Y","total",774255
+2025,"E38000252","NHS Frimley ICB - D4U1Y","working_age_18_66",486423
+2025,"E38000253","NHS Hampshire and Isle of Wight ICB - D9Y0V","aged_16_59",885886
+2025,"E38000253","NHS Hampshire and Isle of Wight ICB - D9Y0V","children_0_15",283787
+2025,"E38000253","NHS Hampshire and Isle of Wight ICB - D9Y0V","older_60_plus",463910
+2025,"E38000253","NHS Hampshire and Isle of Wight ICB - D9Y0V","total",1633583
+2025,"E38000253","NHS Hampshire and Isle of Wight ICB - D9Y0V","working_age_18_66",993298
+2025,"E38000254","NHS West Yorkshire ICB - X2C4Y","aged_16_59",247138
+2025,"E38000254","NHS West Yorkshire ICB - X2C4Y","children_0_15",87050
+2025,"E38000254","NHS West Yorkshire ICB - X2C4Y","older_60_plus",103606
+2025,"E38000254","NHS West Yorkshire ICB - X2C4Y","total",437794
+2025,"E38000254","NHS West Yorkshire ICB - X2C4Y","working_age_18_66",270140
+2025,"E38000255","NHS North East London ICB - A3A8R","aged_16_59",1323827
+2025,"E38000255","NHS North East London ICB - A3A8R","children_0_15",417508
+2025,"E38000255","NHS North East London ICB - A3A8R","older_60_plus",285296
+2025,"E38000255","NHS North East London ICB - A3A8R","total",2026631
+2025,"E38000255","NHS North East London ICB - A3A8R","working_age_18_66",1386378
+2025,"E38000256","NHS North West London ICB - W2U3Z","aged_16_59",1351347
+2025,"E38000256","NHS North West London ICB - W2U3Z","children_0_15",389487
+2025,"E38000256","NHS North West London ICB - W2U3Z","older_60_plus",376268
+2025,"E38000256","NHS North West London ICB - W2U3Z","total",2117102
+2025,"E38000256","NHS North West London ICB - W2U3Z","working_age_18_66",1443025
+2025,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","aged_16_59",273746
+2025,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","children_0_15",89480
+2025,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","older_60_plus",153253
+2025,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","total",516479
+2025,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","working_age_18_66",309457
+2025,"E38000258","NHS Birmingham and Solihull ICB - 15E","aged_16_59",809146
+2025,"E38000258","NHS Birmingham and Solihull ICB - 15E","children_0_15",297360
+2025,"E38000258","NHS Birmingham and Solihull ICB - 15E","older_60_plus",265499
+2025,"E38000258","NHS Birmingham and Solihull ICB - 15E","total",1372005
+2025,"E38000258","NHS Birmingham and Solihull ICB - 15E","working_age_18_66",861611
+2025,"E38000259","NHS Black Country ICB - D2P2L","aged_16_59",689209
+2025,"E38000259","NHS Black Country ICB - D2P2L","children_0_15",255789
+2025,"E38000259","NHS Black Country ICB - D2P2L","older_60_plus",278621
+2025,"E38000259","NHS Black Country ICB - D2P2L","total",1223619
+2025,"E38000259","NHS Black Country ICB - D2P2L","working_age_18_66",749017
+2025,"E38000260","NHS Cambridgeshire and Peterborough ICB - 06H","aged_16_59",536594
+2025,"E38000260","NHS Cambridgeshire and Peterborough ICB - 06H","children_0_15",174813
+2025,"E38000260","NHS Cambridgeshire and Peterborough ICB - 06H","older_60_plus",216853
+2025,"E38000260","NHS Cambridgeshire and Peterborough ICB - 06H","total",928260
+2025,"E38000260","NHS Cambridgeshire and Peterborough ICB - 06H","working_age_18_66",584878
+2025,"E38000261","NHS Derby and Derbyshire ICB - 15M","aged_16_59",585939
+2025,"E38000261","NHS Derby and Derbyshire ICB - 15M","children_0_15",188510
+2025,"E38000261","NHS Derby and Derbyshire ICB - 15M","older_60_plus",292626
+2025,"E38000261","NHS Derby and Derbyshire ICB - 15M","total",1067075
+2025,"E38000261","NHS Derby and Derbyshire ICB - 15M","working_age_18_66",656400
+2025,"E38000262","NHS Northamptonshire ICB - 78H","aged_16_59",451457
+2025,"E38000262","NHS Northamptonshire ICB - 78H","children_0_15",154310
+2025,"E38000262","NHS Northamptonshire ICB - 78H","older_60_plus",186988
+2025,"E38000262","NHS Northamptonshire ICB - 78H","total",792755
+2025,"E38000262","NHS Northamptonshire ICB - 78H","working_age_18_66",494154
+2025,"E38000263","NHS Greater Manchester ICB - 01Y","aged_16_59",131353
+2025,"E38000263","NHS Greater Manchester ICB - 01Y","children_0_15",46105
+2025,"E38000263","NHS Greater Manchester ICB - 01Y","older_60_plus",55348
+2025,"E38000263","NHS Greater Manchester ICB - 01Y","total",232806
+2025,"E38000263","NHS Greater Manchester ICB - 01Y","working_age_18_66",144940
+2025,"E38000264","NHS Surrey Heartlands ICB - 92A","aged_16_59",591418
+2025,"E38000264","NHS Surrey Heartlands ICB - 92A","children_0_15",205410
+2025,"E38000264","NHS Surrey Heartlands ICB - 92A","older_60_plus",263855
+2025,"E38000264","NHS Surrey Heartlands ICB - 92A","total",1060683
+2025,"E38000264","NHS Surrey Heartlands ICB - 92A","working_age_18_66",648910
+2025,"E38000265","NHS Sussex ICB - 70F","aged_16_59",471906
+2025,"E38000265","NHS Sussex ICB - 70F","children_0_15",157610
+2025,"E38000265","NHS Sussex ICB - 70F","older_60_plus",263291
+2025,"E38000265","NHS Sussex ICB - 70F","total",892807
+2025,"E38000265","NHS Sussex ICB - 70F","working_age_18_66",530232
+2026,"E38000006","NHS South Yorkshire ICB - 02P","aged_16_59",136496
+2026,"E38000006","NHS South Yorkshire ICB - 02P","children_0_15",45178
+2026,"E38000006","NHS South Yorkshire ICB - 02P","older_60_plus",64774
+2026,"E38000006","NHS South Yorkshire ICB - 02P","total",246448
+2026,"E38000006","NHS South Yorkshire ICB - 02P","working_age_18_66",152884
+2026,"E38000007","NHS Essex ICB - 99E","aged_16_59",148767
+2026,"E38000007","NHS Essex ICB - 99E","children_0_15",53839
+2026,"E38000007","NHS Essex ICB - 99E","older_60_plus",63552
+2026,"E38000007","NHS Essex ICB - 99E","total",266158
+2026,"E38000007","NHS Essex ICB - 99E","working_age_18_66",163141
+2026,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","aged_16_59",64159
+2026,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","children_0_15",20870
+2026,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","older_60_plus",34956
+2026,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","total",119985
+2026,"E38000008","NHS Nottingham and Nottinghamshire ICB - 02Q","working_age_18_66",72656
+2026,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","aged_16_59",89520
+2026,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","children_0_15",35362
+2026,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","older_60_plus",30941
+2026,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","total",155823
+2026,"E38000014","NHS Lancashire and South Cumbria ICB - 00Q","working_age_18_66",95959
+2026,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","aged_16_59",77263
+2026,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","children_0_15",25015
+2026,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","older_60_plus",39370
+2026,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","total",141648
+2026,"E38000015","NHS Lancashire and South Cumbria ICB - 00R","working_age_18_66",87400
+2026,"E38000016","NHS Greater Manchester ICB - 00T","aged_16_59",166607
+2026,"E38000016","NHS Greater Manchester ICB - 00T","children_0_15",64479
+2026,"E38000016","NHS Greater Manchester ICB - 00T","older_60_plus",68067
+2026,"E38000016","NHS Greater Manchester ICB - 00T","total",299153
+2026,"E38000016","NHS Greater Manchester ICB - 00T","working_age_18_66",181037
+2026,"E38000021","NHS Surrey and Sussex ICB - 09D","aged_16_59",183243
+2026,"E38000021","NHS Surrey and Sussex ICB - 09D","children_0_15",41371
+2026,"E38000021","NHS Surrey and Sussex ICB - 09D","older_60_plus",53756
+2026,"E38000021","NHS Surrey and Sussex ICB - 09D","total",278370
+2026,"E38000021","NHS Surrey and Sussex ICB - 09D","working_age_18_66",196302
+2026,"E38000024","NHS Greater Manchester ICB - 00V","aged_16_59",108297
+2026,"E38000024","NHS Greater Manchester ICB - 00V","children_0_15",38881
+2026,"E38000024","NHS Greater Manchester ICB - 00V","older_60_plus",47412
+2026,"E38000024","NHS Greater Manchester ICB - 00V","total",194590
+2026,"E38000024","NHS Greater Manchester ICB - 00V","working_age_18_66",118866
+2026,"E38000025","NHS West Yorkshire ICB - 02T","aged_16_59",114475
+2026,"E38000025","NHS West Yorkshire ICB - 02T","children_0_15",39812
+2026,"E38000025","NHS West Yorkshire ICB - 02T","older_60_plus",53373
+2026,"E38000025","NHS West Yorkshire ICB - 02T","total",207660
+2026,"E38000025","NHS West Yorkshire ICB - 02T","working_age_18_66",127353
+2026,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","aged_16_59",76279
+2026,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","children_0_15",24419
+2026,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","older_60_plus",37026
+2026,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","total",137724
+2026,"E38000028","NHS Staffordshire and Stoke-on-Trent ICB - 04Y","working_age_18_66",85344
+2026,"E38000030","NHS Essex ICB - 99F","aged_16_59",91574
+2026,"E38000030","NHS Essex ICB - 99F","children_0_15",30612
+2026,"E38000030","NHS Essex ICB - 99F","older_60_plus",54752
+2026,"E38000030","NHS Essex ICB - 99F","total",176938
+2026,"E38000030","NHS Essex ICB - 99F","working_age_18_66",103332
+2026,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","aged_16_59",99688
+2026,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","children_0_15",32502
+2026,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","older_60_plus",48296
+2026,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","total",180486
+2026,"E38000034","NHS Lancashire and South Cumbria ICB - 00X","working_age_18_66",111091
+2026,"E38000044","NHS South Yorkshire ICB - 02X","aged_16_59",171952
+2026,"E38000044","NHS South Yorkshire ICB - 02X","children_0_15",57944
+2026,"E38000044","NHS South Yorkshire ICB - 02X","older_60_plus",81068
+2026,"E38000044","NHS South Yorkshire ICB - 02X","total",310964
+2026,"E38000044","NHS South Yorkshire ICB - 02X","working_age_18_66",192258
+2026,"E38000045","NHS Dorset ICB - 11J","aged_16_59",405567
+2026,"E38000045","NHS Dorset ICB - 11J","children_0_15",123586
+2026,"E38000045","NHS Dorset ICB - 11J","older_60_plus",256779
+2026,"E38000045","NHS Dorset ICB - 11J","total",785932
+2026,"E38000045","NHS Dorset ICB - 11J","working_age_18_66",463283
+2026,"E38000049","NHS Central East ICB - 06K","aged_16_59",328489
+2026,"E38000049","NHS Central East ICB - 06K","children_0_15",111460
+2026,"E38000049","NHS Central East ICB - 06K","older_60_plus",134419
+2026,"E38000049","NHS Central East ICB - 06K","total",574368
+2026,"E38000049","NHS Central East ICB - 06K","working_age_18_66",359684
+2026,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","aged_16_59",217117
+2026,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","children_0_15",78778
+2026,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","older_60_plus",101409
+2026,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","total",397304
+2026,"E38000050","NHS Lancashire and South Cumbria ICB - 01A","working_age_18_66",240515
+2026,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","aged_16_59",187154
+2026,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","children_0_15",62312
+2026,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","older_60_plus",101201
+2026,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","total",350667
+2026,"E38000051","NHS Leicester, Leicestershire and Rutland ICB - 03W","working_age_18_66",209773
+2026,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","aged_16_59",160555
+2026,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","children_0_15",50474
+2026,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","older_60_plus",110734
+2026,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","total",321763
+2026,"E38000052","NHS Humber and North Yorkshire ICB - 02Y","working_age_18_66",187062
+2026,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","aged_16_59",75739
+2026,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","children_0_15",25790
+2026,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","older_60_plus",35044
+2026,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","total",136573
+2026,"E38000053","NHS Staffordshire and Stoke-on-Trent ICB - 05D","working_age_18_66",84226
+2026,"E38000062","NHS Gloucestershire ICB - 11M","aged_16_59",351899
+2026,"E38000062","NHS Gloucestershire ICB - 11M","children_0_15",114379
+2026,"E38000062","NHS Gloucestershire ICB - 11M","older_60_plus",186388
+2026,"E38000062","NHS Gloucestershire ICB - 11M","total",652666
+2026,"E38000062","NHS Gloucestershire ICB - 11M","working_age_18_66",395790
+2026,"E38000068","NHS Cheshire and Merseyside ICB - 01F","aged_16_59",71661
+2026,"E38000068","NHS Cheshire and Merseyside ICB - 01F","children_0_15",24353
+2026,"E38000068","NHS Cheshire and Merseyside ICB - 01F","older_60_plus",32994
+2026,"E38000068","NHS Cheshire and Merseyside ICB - 01F","total",129008
+2026,"E38000068","NHS Cheshire and Merseyside ICB - 01F","working_age_18_66",79979
+2026,"E38000079","NHS Central East ICB - 06N","aged_16_59",346619
+2026,"E38000079","NHS Central East ICB - 06N","children_0_15",125771
+2026,"E38000079","NHS Central East ICB - 06N","older_60_plus",137834
+2026,"E38000079","NHS Central East ICB - 06N","total",610224
+2026,"E38000079","NHS Central East ICB - 06N","working_age_18_66",376867
+2026,"E38000080","NHS Greater Manchester ICB - 01D","aged_16_59",127084
+2026,"E38000080","NHS Greater Manchester ICB - 01D","children_0_15",49481
+2026,"E38000080","NHS Greater Manchester ICB - 01D","older_60_plus",50385
+2026,"E38000080","NHS Greater Manchester ICB - 01D","total",226950
+2026,"E38000080","NHS Greater Manchester ICB - 01D","working_age_18_66",138420
+2026,"E38000085","NHS Humber and North Yorkshire ICB - 03F","aged_16_59",158149
+2026,"E38000085","NHS Humber and North Yorkshire ICB - 03F","children_0_15",53493
+2026,"E38000085","NHS Humber and North Yorkshire ICB - 03F","older_60_plus",57035
+2026,"E38000085","NHS Humber and North Yorkshire ICB - 03F","total",268677
+2026,"E38000085","NHS Humber and North Yorkshire ICB - 03F","working_age_18_66",172393
+2026,"E38000086","NHS Norfolk and Suffolk ICB - 06L","aged_16_59",217499
+2026,"E38000086","NHS Norfolk and Suffolk ICB - 06L","children_0_15",71071
+2026,"E38000086","NHS Norfolk and Suffolk ICB - 06L","older_60_plus",126007
+2026,"E38000086","NHS Norfolk and Suffolk ICB - 06L","total",414577
+2026,"E38000086","NHS Norfolk and Suffolk ICB - 06L","working_age_18_66",246036
+2026,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","aged_16_59",294582
+2026,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","children_0_15",93718
+2026,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","older_60_plus",189513
+2026,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","total",577813
+2026,"E38000089","NHS Cornwall and the Isles of Scilly ICB - 11N","working_age_18_66",340095
+2026,"E38000091","NHS Cheshire and Merseyside ICB - 01J","aged_16_59",88429
+2026,"E38000091","NHS Cheshire and Merseyside ICB - 01J","children_0_15",31016
+2026,"E38000091","NHS Cheshire and Merseyside ICB - 01J","older_60_plus",37662
+2026,"E38000091","NHS Cheshire and Merseyside ICB - 01J","total",157107
+2026,"E38000091","NHS Cheshire and Merseyside ICB - 01J","working_age_18_66",99179
+2026,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","aged_16_59",232339
+2026,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","children_0_15",77855
+2026,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","older_60_plus",62301
+2026,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","total",372495
+2026,"E38000097","NHS Leicester, Leicestershire and Rutland ICB - 04C","working_age_18_66",245965
+2026,"E38000101","NHS Cheshire and Merseyside ICB - 99A","aged_16_59",307108
+2026,"E38000101","NHS Cheshire and Merseyside ICB - 99A","children_0_15",84519
+2026,"E38000101","NHS Cheshire and Merseyside ICB - 99A","older_60_plus",104222
+2026,"E38000101","NHS Cheshire and Merseyside ICB - 99A","total",495849
+2026,"E38000101","NHS Cheshire and Merseyside ICB - 99A","working_age_18_66",335441
+2026,"E38000106","NHS Essex ICB - 06Q","aged_16_59",223655
+2026,"E38000106","NHS Essex ICB - 06Q","children_0_15",74435
+2026,"E38000106","NHS Essex ICB - 06Q","older_60_plus",110497
+2026,"E38000106","NHS Essex ICB - 06Q","total",408587
+2026,"E38000106","NHS Essex ICB - 06Q","working_age_18_66",248380
+2026,"E38000117","NHS Essex ICB - 06T","aged_16_59",183791
+2026,"E38000117","NHS Essex ICB - 06T","children_0_15",60720
+2026,"E38000117","NHS Essex ICB - 06T","older_60_plus",101537
+2026,"E38000117","NHS Essex ICB - 06T","total",346048
+2026,"E38000117","NHS Essex ICB - 06T","working_age_18_66",206146
+2026,"E38000119","NHS Humber and North Yorkshire ICB - 03H","aged_16_59",84165
+2026,"E38000119","NHS Humber and North Yorkshire ICB - 03H","children_0_15",29325
+2026,"E38000119","NHS Humber and North Yorkshire ICB - 03H","older_60_plus",44255
+2026,"E38000119","NHS Humber and North Yorkshire ICB - 03H","total",157745
+2026,"E38000119","NHS Humber and North Yorkshire ICB - 03H","working_age_18_66",94930
+2026,"E38000122","NHS Humber and North Yorkshire ICB - 03K","aged_16_59",89867
+2026,"E38000122","NHS Humber and North Yorkshire ICB - 03K","children_0_15",30339
+2026,"E38000122","NHS Humber and North Yorkshire ICB - 03K","older_60_plus",49879
+2026,"E38000122","NHS Humber and North Yorkshire ICB - 03K","total",170085
+2026,"E38000122","NHS Humber and North Yorkshire ICB - 03K","working_age_18_66",101912
+2026,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","aged_16_59",114355
+2026,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","children_0_15",34047
+2026,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","older_60_plus",64856
+2026,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","total",213258
+2026,"E38000126","NHS Staffordshire and Stoke-on-Trent ICB - 05G","working_age_18_66",129708
+2026,"E38000127","NHS North East and North Cumbria ICB - 99C","aged_16_59",115328
+2026,"E38000127","NHS North East and North Cumbria ICB - 99C","children_0_15",37313
+2026,"E38000127","NHS North East and North Cumbria ICB - 99C","older_60_plus",57871
+2026,"E38000127","NHS North East and North Cumbria ICB - 99C","total",210512
+2026,"E38000127","NHS North East and North Cumbria ICB - 99C","working_age_18_66",129620
+2026,"E38000130","NHS North East and North Cumbria ICB - 00L","aged_16_59",162901
+2026,"E38000130","NHS North East and North Cumbria ICB - 00L","children_0_15",51686
+2026,"E38000130","NHS North East and North Cumbria ICB - 00L","older_60_plus",109699
+2026,"E38000130","NHS North East and North Cumbria ICB - 00L","total",324286
+2026,"E38000130","NHS North East and North Cumbria ICB - 00L","working_age_18_66",191179
+2026,"E38000135","NHS Greater Manchester ICB - 00Y","aged_16_59",136664
+2026,"E38000135","NHS Greater Manchester ICB - 00Y","children_0_15",55241
+2026,"E38000135","NHS Greater Manchester ICB - 00Y","older_60_plus",52088
+2026,"E38000135","NHS Greater Manchester ICB - 00Y","total",243993
+2026,"E38000135","NHS Greater Manchester ICB - 00Y","working_age_18_66",147038
+2026,"E38000136","NHS Thames Valley ICB - 10Q","aged_16_59",420206
+2026,"E38000136","NHS Thames Valley ICB - 10Q","children_0_15",128969
+2026,"E38000136","NHS Thames Valley ICB - 10Q","older_60_plus",171582
+2026,"E38000136","NHS Thames Valley ICB - 10Q","total",720757
+2026,"E38000136","NHS Thames Valley ICB - 10Q","working_age_18_66",458542
+2026,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","aged_16_59",129308
+2026,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","children_0_15",37468
+2026,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","older_60_plus",42173
+2026,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","total",208949
+2026,"E38000137","NHS Hampshire and Isle of Wight ICB - 10R","working_age_18_66",139471
+2026,"E38000141","NHS South Yorkshire ICB - 03L","aged_16_59",147638
+2026,"E38000141","NHS South Yorkshire ICB - 03L","children_0_15",50793
+2026,"E38000141","NHS South Yorkshire ICB - 03L","older_60_plus",69836
+2026,"E38000141","NHS South Yorkshire ICB - 03L","total",268267
+2026,"E38000141","NHS South Yorkshire ICB - 03L","working_age_18_66",164140
+2026,"E38000143","NHS Greater Manchester ICB - 01G","aged_16_59",175341
+2026,"E38000143","NHS Greater Manchester ICB - 01G","children_0_15",54338
+2026,"E38000143","NHS Greater Manchester ICB - 01G","older_60_plus",49188
+2026,"E38000143","NHS Greater Manchester ICB - 01G","total",278867
+2026,"E38000143","NHS Greater Manchester ICB - 01G","working_age_18_66",186562
+2026,"E38000146","NHS South Yorkshire ICB - 03N","aged_16_59",336812
+2026,"E38000146","NHS South Yorkshire ICB - 03N","children_0_15",101182
+2026,"E38000146","NHS South Yorkshire ICB - 03N","older_60_plus",126708
+2026,"E38000146","NHS South Yorkshire ICB - 03N","total",564702
+2026,"E38000146","NHS South Yorkshire ICB - 03N","working_age_18_66",365659
+2026,"E38000150","NHS Somerset ICB - 11X","aged_16_59",294214
+2026,"E38000150","NHS Somerset ICB - 11X","children_0_15",97467
+2026,"E38000150","NHS Somerset ICB - 11X","older_60_plus",185410
+2026,"E38000150","NHS Somerset ICB - 11X","total",577091
+2026,"E38000150","NHS Somerset ICB - 11X","working_age_18_66",335997
+2026,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","aged_16_59",123613
+2026,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","children_0_15",39315
+2026,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","older_60_plus",68550
+2026,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","total",231478
+2026,"E38000153","NHS Staffordshire and Stoke-on-Trent ICB - 05Q","working_age_18_66",139385
+2026,"E38000161","NHS Cheshire and Merseyside ICB - 01T","aged_16_59",88759
+2026,"E38000161","NHS Cheshire and Merseyside ICB - 01T","children_0_15",28942
+2026,"E38000161","NHS Cheshire and Merseyside ICB - 01T","older_60_plus",46033
+2026,"E38000161","NHS Cheshire and Merseyside ICB - 01T","total",163734
+2026,"E38000161","NHS Cheshire and Merseyside ICB - 01T","working_age_18_66",101392
+2026,"E38000163","NHS North East and North Cumbria ICB - 00N","aged_16_59",79805
+2026,"E38000163","NHS North East and North Cumbria ICB - 00N","children_0_15",26650
+2026,"E38000163","NHS North East and North Cumbria ICB - 00N","older_60_plus",42153
+2026,"E38000163","NHS North East and North Cumbria ICB - 00N","total",148608
+2026,"E38000163","NHS North East and North Cumbria ICB - 00N","working_age_18_66",91066
+2026,"E38000168","NHS Essex ICB - 99G","aged_16_59",100803
+2026,"E38000168","NHS Essex ICB - 99G","children_0_15",34238
+2026,"E38000168","NHS Essex ICB - 99G","older_60_plus",45843
+2026,"E38000168","NHS Essex ICB - 99G","total",180884
+2026,"E38000168","NHS Essex ICB - 99G","working_age_18_66",111316
+2026,"E38000170","NHS Cheshire and Merseyside ICB - 01V","aged_16_59",58393
+2026,"E38000170","NHS Cheshire and Merseyside ICB - 01V","children_0_15",18462
+2026,"E38000170","NHS Cheshire and Merseyside ICB - 01V","older_60_plus",40450
+2026,"E38000170","NHS Cheshire and Merseyside ICB - 01V","total",117305
+2026,"E38000170","NHS Cheshire and Merseyside ICB - 01V","working_age_18_66",67588
+2026,"E38000172","NHS Cheshire and Merseyside ICB - 01X","aged_16_59",102009
+2026,"E38000172","NHS Cheshire and Merseyside ICB - 01X","children_0_15",32768
+2026,"E38000172","NHS Cheshire and Merseyside ICB - 01X","older_60_plus",49951
+2026,"E38000172","NHS Cheshire and Merseyside ICB - 01X","total",184728
+2026,"E38000172","NHS Cheshire and Merseyside ICB - 01X","working_age_18_66",113938
+2026,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","aged_16_59",83795
+2026,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","children_0_15",26704
+2026,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","older_60_plus",48712
+2026,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","total",159211
+2026,"E38000173","NHS Staffordshire and Stoke-on-Trent ICB - 05V","working_age_18_66",95113
+2026,"E38000174","NHS Greater Manchester ICB - 01W","aged_16_59",162192
+2026,"E38000174","NHS Greater Manchester ICB - 01W","children_0_15",56643
+2026,"E38000174","NHS Greater Manchester ICB - 01W","older_60_plus",78356
+2026,"E38000174","NHS Greater Manchester ICB - 01W","total",297191
+2026,"E38000174","NHS Greater Manchester ICB - 01W","working_age_18_66",179987
+2026,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","aged_16_59",151455
+2026,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","children_0_15",53826
+2026,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","older_60_plus",62777
+2026,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","total",268058
+2026,"E38000175","NHS Staffordshire and Stoke-on-Trent ICB - 05W","working_age_18_66",165827
+2026,"E38000176","NHS North East and North Cumbria ICB - 00P","aged_16_59",152258
+2026,"E38000176","NHS North East and North Cumbria ICB - 00P","children_0_15",48555
+2026,"E38000176","NHS North East and North Cumbria ICB - 00P","older_60_plus",76699
+2026,"E38000176","NHS North East and North Cumbria ICB - 00P","total",277512
+2026,"E38000176","NHS North East and North Cumbria ICB - 00P","working_age_18_66",172232
+2026,"E38000185","NHS Essex ICB - 07G","aged_16_59",104018
+2026,"E38000185","NHS Essex ICB - 07G","children_0_15",40014
+2026,"E38000185","NHS Essex ICB - 07G","older_60_plus",32756
+2026,"E38000185","NHS Essex ICB - 07G","total",176788
+2026,"E38000185","NHS Essex ICB - 07G","working_age_18_66",110823
+2026,"E38000187","NHS Greater Manchester ICB - 02A","aged_16_59",131929
+2026,"E38000187","NHS Greater Manchester ICB - 02A","children_0_15",49529
+2026,"E38000187","NHS Greater Manchester ICB - 02A","older_60_plus",55193
+2026,"E38000187","NHS Greater Manchester ICB - 02A","total",236651
+2026,"E38000187","NHS Greater Manchester ICB - 02A","working_age_18_66",143883
+2026,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","aged_16_59",205916
+2026,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","children_0_15",57464
+2026,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","older_60_plus",100847
+2026,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","total",364227
+2026,"E38000188","NHS Humber and North Yorkshire ICB - 03Q","working_age_18_66",229991
+2026,"E38000190","NHS West Yorkshire ICB - 03R","aged_16_59",199969
+2026,"E38000190","NHS West Yorkshire ICB - 03R","children_0_15",66729
+2026,"E38000190","NHS West Yorkshire ICB - 03R","older_60_plus",90280
+2026,"E38000190","NHS West Yorkshire ICB - 03R","total",356978
+2026,"E38000190","NHS West Yorkshire ICB - 03R","working_age_18_66",222132
+2026,"E38000194","NHS Cheshire and Merseyside ICB - 02E","aged_16_59",118422
+2026,"E38000194","NHS Cheshire and Merseyside ICB - 02E","children_0_15",38757
+2026,"E38000194","NHS Cheshire and Merseyside ICB - 02E","older_60_plus",54618
+2026,"E38000194","NHS Cheshire and Merseyside ICB - 02E","total",211797
+2026,"E38000194","NHS Cheshire and Merseyside ICB - 02E","working_age_18_66",131602
+2026,"E38000197","NHS Essex ICB - 07H","aged_16_59",178857
+2026,"E38000197","NHS Essex ICB - 07H","children_0_15",63716
+2026,"E38000197","NHS Essex ICB - 07H","older_60_plus",79555
+2026,"E38000197","NHS Essex ICB - 07H","total",322128
+2026,"E38000197","NHS Essex ICB - 07H","working_age_18_66",197657
+2026,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","aged_16_59",65412
+2026,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","children_0_15",19480
+2026,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","older_60_plus",34468
+2026,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","total",119360
+2026,"E38000200","NHS Lancashire and South Cumbria ICB - 02G","working_age_18_66",73674
+2026,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","aged_16_59",232347
+2026,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","children_0_15",71401
+2026,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","older_60_plus",109750
+2026,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","total",413498
+2026,"E38000201","NHS Leicester, Leicestershire and Rutland ICB - 04V","working_age_18_66",258294
+2026,"E38000204","NHS Norfolk and Suffolk ICB - 07K","aged_16_59",128588
+2026,"E38000204","NHS Norfolk and Suffolk ICB - 07K","children_0_15",41408
+2026,"E38000204","NHS Norfolk and Suffolk ICB - 07K","older_60_plus",67574
+2026,"E38000204","NHS Norfolk and Suffolk ICB - 07K","total",237570
+2026,"E38000204","NHS Norfolk and Suffolk ICB - 07K","working_age_18_66",143532
+2026,"E38000205","NHS Greater Manchester ICB - 02H","aged_16_59",187134
+2026,"E38000205","NHS Greater Manchester ICB - 02H","children_0_15",61410
+2026,"E38000205","NHS Greater Manchester ICB - 02H","older_60_plus",85470
+2026,"E38000205","NHS Greater Manchester ICB - 02H","total",334014
+2026,"E38000205","NHS Greater Manchester ICB - 02H","working_age_18_66",207060
+2026,"E38000208","NHS Cheshire and Merseyside ICB - 12F","aged_16_59",170065
+2026,"E38000208","NHS Cheshire and Merseyside ICB - 12F","children_0_15",58110
+2026,"E38000208","NHS Cheshire and Merseyside ICB - 12F","older_60_plus",94264
+2026,"E38000208","NHS Cheshire and Merseyside ICB - 12F","total",322439
+2026,"E38000208","NHS Cheshire and Merseyside ICB - 12F","working_age_18_66",192768
+2026,"E38000212","NHS North East and North Cumbria ICB - 13T","aged_16_59",301915
+2026,"E38000212","NHS North East and North Cumbria ICB - 13T","children_0_15",87577
+2026,"E38000212","NHS North East and North Cumbria ICB - 13T","older_60_plus",114832
+2026,"E38000212","NHS North East and North Cumbria ICB - 13T","total",504324
+2026,"E38000212","NHS North East and North Cumbria ICB - 13T","working_age_18_66",330345
+2026,"E38000215","NHS North East and North Cumbria ICB - 01H","aged_16_59",168073
+2026,"E38000215","NHS North East and North Cumbria ICB - 01H","children_0_15",52379
+2026,"E38000215","NHS North East and North Cumbria ICB - 01H","older_60_plus",101957
+2026,"E38000215","NHS North East and North Cumbria ICB - 01H","total",322409
+2026,"E38000215","NHS North East and North Cumbria ICB - 01H","working_age_18_66",194510
+2026,"E38000217","NHS Greater Manchester ICB - 14L","aged_16_59",376164
+2026,"E38000217","NHS Greater Manchester ICB - 14L","children_0_15",114852
+2026,"E38000217","NHS Greater Manchester ICB - 14L","older_60_plus",75762
+2026,"E38000217","NHS Greater Manchester ICB - 14L","total",566778
+2026,"E38000217","NHS Greater Manchester ICB - 14L","working_age_18_66",392212
+2026,"E38000221","NHS Thames Valley ICB - 15A","aged_16_59",303952
+2026,"E38000221","NHS Thames Valley ICB - 15A","children_0_15",102230
+2026,"E38000221","NHS Thames Valley ICB - 15A","older_60_plus",113340
+2026,"E38000221","NHS Thames Valley ICB - 15A","total",519522
+2026,"E38000221","NHS Thames Valley ICB - 15A","working_age_18_66",329355
+2026,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","aged_16_59",597121
+2026,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","children_0_15",174796
+2026,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","older_60_plus",221191
+2026,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","total",993108
+2026,"E38000222","NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","working_age_18_66",646269
+2026,"E38000223","NHS Thames Valley ICB - 14Y","aged_16_59",310617
+2026,"E38000223","NHS Thames Valley ICB - 14Y","children_0_15",112394
+2026,"E38000223","NHS Thames Valley ICB - 14Y","older_60_plus",140771
+2026,"E38000223","NHS Thames Valley ICB - 14Y","total",563782
+2026,"E38000223","NHS Thames Valley ICB - 14Y","working_age_18_66",342029
+2026,"E38000225","NHS West Yorkshire ICB - 15F","aged_16_59",495979
+2026,"E38000225","NHS West Yorkshire ICB - 15F","children_0_15",154539
+2026,"E38000225","NHS West Yorkshire ICB - 15F","older_60_plus",170284
+2026,"E38000225","NHS West Yorkshire ICB - 15F","total",820802
+2026,"E38000225","NHS West Yorkshire ICB - 15F","working_age_18_66",534279
+2026,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","aged_16_59",97851
+2026,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","children_0_15",30651
+2026,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","older_60_plus",71809
+2026,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","total",200311
+2026,"E38000226","NHS Lancashire and South Cumbria ICB - 02M","working_age_18_66",115077
+2026,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","aged_16_59",122146
+2026,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","children_0_15",39742
+2026,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","older_60_plus",50012
+2026,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","total",211900
+2026,"E38000227","NHS Lancashire and South Cumbria ICB - 01E","working_age_18_66",134090
+2026,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","aged_16_59",178182
+2026,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","children_0_15",51367
+2026,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","older_60_plus",101775
+2026,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","total",331324
+2026,"E38000228","NHS Lancashire and South Cumbria ICB - 01K","working_age_18_66",202625
+2026,"E38000230","NHS Devon ICB - 15N","aged_16_59",648184
+2026,"E38000230","NHS Devon ICB - 15N","children_0_15",197590
+2026,"E38000230","NHS Devon ICB - 15N","older_60_plus",386806
+2026,"E38000230","NHS Devon ICB - 15N","total",1232580
+2026,"E38000230","NHS Devon ICB - 15N","working_age_18_66",738238
+2026,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","aged_16_59",530570
+2026,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","children_0_15",171748
+2026,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","older_60_plus",252131
+2026,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","total",954449
+2026,"E38000231","NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","working_age_18_66",589684
+2026,"E38000232","NHS West Yorkshire ICB - 36J","aged_16_59",339374
+2026,"E38000232","NHS West Yorkshire ICB - 36J","children_0_15",132448
+2026,"E38000232","NHS West Yorkshire ICB - 36J","older_60_plus",132841
+2026,"E38000232","NHS West Yorkshire ICB - 36J","total",604663
+2026,"E38000232","NHS West Yorkshire ICB - 36J","working_age_18_66",367630
+2026,"E38000233","NHS Cheshire and Merseyside ICB - 27D","aged_16_59",414979
+2026,"E38000233","NHS Cheshire and Merseyside ICB - 27D","children_0_15",133487
+2026,"E38000233","NHS Cheshire and Merseyside ICB - 27D","older_60_plus",219920
+2026,"E38000233","NHS Cheshire and Merseyside ICB - 27D","total",768386
+2026,"E38000233","NHS Cheshire and Merseyside ICB - 27D","working_age_18_66",466482
+2026,"E38000234","NHS North East and North Cumbria ICB - 84H","aged_16_59",289572
+2026,"E38000234","NHS North East and North Cumbria ICB - 84H","children_0_15",88049
+2026,"E38000234","NHS North East and North Cumbria ICB - 84H","older_60_plus",150083
+2026,"E38000234","NHS North East and North Cumbria ICB - 84H","total",527704
+2026,"E38000234","NHS North East and North Cumbria ICB - 84H","working_age_18_66",327757
+2026,"E38000235","NHS Surrey and Sussex ICB - 97R","aged_16_59",276028
+2026,"E38000235","NHS Surrey and Sussex ICB - 97R","children_0_15",90657
+2026,"E38000235","NHS Surrey and Sussex ICB - 97R","older_60_plus",184322
+2026,"E38000235","NHS Surrey and Sussex ICB - 97R","total",551007
+2026,"E38000235","NHS Surrey and Sussex ICB - 97R","working_age_18_66",317144
+2026,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","aged_16_59",417911
+2026,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","children_0_15",135073
+2026,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","older_60_plus",245035
+2026,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","total",798019
+2026,"E38000236","NHS Herefordshire and Worcestershire ICB - 18C","working_age_18_66",473951
+2026,"E38000237","NHS Kent and Medway ICB - 91Q","aged_16_59",1028403
+2026,"E38000237","NHS Kent and Medway ICB - 91Q","children_0_15",362952
+2026,"E38000237","NHS Kent and Medway ICB - 91Q","older_60_plus",486062
+2026,"E38000237","NHS Kent and Medway ICB - 91Q","total",1877417
+2026,"E38000237","NHS Kent and Medway ICB - 91Q","working_age_18_66",1136342
+2026,"E38000238","NHS Lincolnshire ICB - 71E","aged_16_59",408272
+2026,"E38000238","NHS Lincolnshire ICB - 71E","children_0_15",129322
+2026,"E38000238","NHS Lincolnshire ICB - 71E","older_60_plus",238270
+2026,"E38000238","NHS Lincolnshire ICB - 71E","total",775864
+2026,"E38000238","NHS Lincolnshire ICB - 71E","working_age_18_66",465255
+2026,"E38000239","NHS Norfolk and Suffolk ICB - 26A","aged_16_59",542138
+2026,"E38000239","NHS Norfolk and Suffolk ICB - 26A","children_0_15",168892
+2026,"E38000239","NHS Norfolk and Suffolk ICB - 26A","older_60_plus",331237
+2026,"E38000239","NHS Norfolk and Suffolk ICB - 26A","total",1042267
+2026,"E38000239","NHS Norfolk and Suffolk ICB - 26A","working_age_18_66",617742
+2026,"E38000240","NHS West and North London ICB - 93C","aged_16_59",904727
+2026,"E38000240","NHS West and North London ICB - 93C","children_0_15",265473
+2026,"E38000240","NHS West and North London ICB - 93C","older_60_plus",246944
+2026,"E38000240","NHS West and North London ICB - 93C","total",1417144
+2026,"E38000240","NHS West and North London ICB - 93C","working_age_18_66",962422
+2026,"E38000241","NHS Humber and North Yorkshire ICB - 42D","aged_16_59",219497
+2026,"E38000241","NHS Humber and North Yorkshire ICB - 42D","children_0_15",68429
+2026,"E38000241","NHS Humber and North Yorkshire ICB - 42D","older_60_plus",142599
+2026,"E38000241","NHS Humber and North Yorkshire ICB - 42D","total",430525
+2026,"E38000241","NHS Humber and North Yorkshire ICB - 42D","working_age_18_66",253535
+2026,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","aged_16_59",604313
+2026,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","children_0_15",186794
+2026,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","older_60_plus",251386
+2026,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","total",1042493
+2026,"E38000243","NHS Nottingham and Nottinghamshire ICB - 52R","working_age_18_66",663358
+2026,"E38000244","NHS South East London ICB - 72Q","aged_16_59",1162909
+2026,"E38000244","NHS South East London ICB - 72Q","children_0_15",329247
+2026,"E38000244","NHS South East London ICB - 72Q","older_60_plus",304381
+2026,"E38000244","NHS South East London ICB - 72Q","total",1796537
+2026,"E38000244","NHS South East London ICB - 72Q","working_age_18_66",1239796
+2026,"E38000245","NHS South West London ICB - 36L","aged_16_59",940280
+2026,"E38000245","NHS South West London ICB - 36L","children_0_15",292676
+2026,"E38000245","NHS South West London ICB - 36L","older_60_plus",278673
+2026,"E38000245","NHS South West London ICB - 36L","total",1511629
+2026,"E38000245","NHS South West London ICB - 36L","working_age_18_66",1005472
+2026,"E38000247","NHS North East and North Cumbria ICB - 16C","aged_16_59",375000
+2026,"E38000247","NHS North East and North Cumbria ICB - 16C","children_0_15",131138
+2026,"E38000247","NHS North East and North Cumbria ICB - 16C","older_60_plus",182985
+2026,"E38000247","NHS North East and North Cumbria ICB - 16C","total",689123
+2026,"E38000247","NHS North East and North Cumbria ICB - 16C","working_age_18_66",420739
+2026,"E38000249","NHS Central East ICB - M1J4Y","aged_16_59",591156
+2026,"E38000249","NHS Central East ICB - M1J4Y","children_0_15",214769
+2026,"E38000249","NHS Central East ICB - M1J4Y","older_60_plus",210455
+2026,"E38000249","NHS Central East ICB - M1J4Y","total",1016380
+2026,"E38000249","NHS Central East ICB - M1J4Y","working_age_18_66",639117
+2026,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","aged_16_59",551123
+2026,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","children_0_15",178872
+2026,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","older_60_plus",230607
+2026,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","total",960602
+2026,"E38000251","NHS Coventry and Warwickshire ICB - B2M3M","working_age_18_66",602574
+2026,"E38000254","NHS West Yorkshire ICB - X2C4Y","aged_16_59",247138
+2026,"E38000254","NHS West Yorkshire ICB - X2C4Y","children_0_15",87050
+2026,"E38000254","NHS West Yorkshire ICB - X2C4Y","older_60_plus",103606
+2026,"E38000254","NHS West Yorkshire ICB - X2C4Y","total",437794
+2026,"E38000254","NHS West Yorkshire ICB - X2C4Y","working_age_18_66",270140
+2026,"E38000255","NHS North East London ICB - A3A8R","aged_16_59",1323827
+2026,"E38000255","NHS North East London ICB - A3A8R","children_0_15",417508
+2026,"E38000255","NHS North East London ICB - A3A8R","older_60_plus",285296
+2026,"E38000255","NHS North East London ICB - A3A8R","total",2026631
+2026,"E38000255","NHS North East London ICB - A3A8R","working_age_18_66",1386378
+2026,"E38000256","NHS West and North London ICB - W2U3Z","aged_16_59",1351347
+2026,"E38000256","NHS West and North London ICB - W2U3Z","children_0_15",389487
+2026,"E38000256","NHS West and North London ICB - W2U3Z","older_60_plus",376268
+2026,"E38000256","NHS West and North London ICB - W2U3Z","total",2117102
+2026,"E38000256","NHS West and North London ICB - W2U3Z","working_age_18_66",1443025
+2026,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","aged_16_59",273746
+2026,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","children_0_15",89480
+2026,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","older_60_plus",153253
+2026,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","total",516479
+2026,"E38000257","NHS Shropshire, Telford and Wrekin ICB - M2L0M","working_age_18_66",309457
+2026,"E38000258","NHS Birmingham and Solihull ICB - 15E","aged_16_59",809146
+2026,"E38000258","NHS Birmingham and Solihull ICB - 15E","children_0_15",297360
+2026,"E38000258","NHS Birmingham and Solihull ICB - 15E","older_60_plus",265499
+2026,"E38000258","NHS Birmingham and Solihull ICB - 15E","total",1372005
+2026,"E38000258","NHS Birmingham and Solihull ICB - 15E","working_age_18_66",861611
+2026,"E38000259","NHS Black Country ICB - D2P2L","aged_16_59",689209
+2026,"E38000259","NHS Black Country ICB - D2P2L","children_0_15",255789
+2026,"E38000259","NHS Black Country ICB - D2P2L","older_60_plus",278621
+2026,"E38000259","NHS Black Country ICB - D2P2L","total",1223619
+2026,"E38000259","NHS Black Country ICB - D2P2L","working_age_18_66",749017
+2026,"E38000260","NHS Central East ICB - 06H","aged_16_59",536594
+2026,"E38000260","NHS Central East ICB - 06H","children_0_15",174813
+2026,"E38000260","NHS Central East ICB - 06H","older_60_plus",216853
+2026,"E38000260","NHS Central East ICB - 06H","total",928260
+2026,"E38000260","NHS Central East ICB - 06H","working_age_18_66",584878
+2026,"E38000261","NHS Derby and Derbyshire ICB - 15M","aged_16_59",585939
+2026,"E38000261","NHS Derby and Derbyshire ICB - 15M","children_0_15",188510
+2026,"E38000261","NHS Derby and Derbyshire ICB - 15M","older_60_plus",292626
+2026,"E38000261","NHS Derby and Derbyshire ICB - 15M","total",1067075
+2026,"E38000261","NHS Derby and Derbyshire ICB - 15M","working_age_18_66",656400
+2026,"E38000262","NHS Northamptonshire ICB - 78H","aged_16_59",451457
+2026,"E38000262","NHS Northamptonshire ICB - 78H","children_0_15",154310
+2026,"E38000262","NHS Northamptonshire ICB - 78H","older_60_plus",186988
+2026,"E38000262","NHS Northamptonshire ICB - 78H","total",792755
+2026,"E38000262","NHS Northamptonshire ICB - 78H","working_age_18_66",494154
+2026,"E38000263","NHS Greater Manchester ICB - 01Y","aged_16_59",131353
+2026,"E38000263","NHS Greater Manchester ICB - 01Y","children_0_15",46105
+2026,"E38000263","NHS Greater Manchester ICB - 01Y","older_60_plus",55348
+2026,"E38000263","NHS Greater Manchester ICB - 01Y","total",232806
+2026,"E38000263","NHS Greater Manchester ICB - 01Y","working_age_18_66",144940
+2026,"E38000265","NHS Surrey and Sussex ICB - 70F","aged_16_59",471906
+2026,"E38000265","NHS Surrey and Sussex ICB - 70F","children_0_15",157610
+2026,"E38000265","NHS Surrey and Sussex ICB - 70F","older_60_plus",263291
+2026,"E38000265","NHS Surrey and Sussex ICB - 70F","total",892807
+2026,"E38000265","NHS Surrey and Sussex ICB - 70F","working_age_18_66",530232
+2026,"E38000266","NHS Hampshire and Isle of Wight ICB - D9Y0V","aged_16_59",988692
+2026,"E38000266","NHS Hampshire and Isle of Wight ICB - D9Y0V","children_0_15",317141
+2026,"E38000266","NHS Hampshire and Isle of Wight ICB - D9Y0V","older_60_plus",504354
+2026,"E38000266","NHS Hampshire and Isle of Wight ICB - D9Y0V","total",1810187
+2026,"E38000266","NHS Hampshire and Isle of Wight ICB - D9Y0V","working_age_18_66",1104849
+2026,"E38000267","NHS Surrey and Sussex ICB - 92A","aged_16_59",679770
+2026,"E38000267","NHS Surrey and Sussex ICB - 92A","children_0_15",233882
+2026,"E38000267","NHS Surrey and Sussex ICB - 92A","older_60_plus",303396
+2026,"E38000267","NHS Surrey and Sussex ICB - 92A","total",1217048
+2026,"E38000267","NHS Surrey and Sussex ICB - 92A","working_age_18_66",745719
+2026,"E38000268","NHS Thames Valley ICB - U2G6B","aged_16_59",259022
+2026,"E38000268","NHS Thames Valley ICB - U2G6B","children_0_15",94639
+2026,"E38000268","NHS Thames Valley ICB - U2G6B","older_60_plus",87625
+2026,"E38000268","NHS Thames Valley ICB - U2G6B","total",441286
+2026,"E38000268","NHS Thames Valley ICB - U2G6B","working_age_18_66",278063
